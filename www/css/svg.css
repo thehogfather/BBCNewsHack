@@ -1,0 +1,90 @@
+.svgContainer {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:1200px;
+    overflow-x:scroll;
+}
+
+.svgContainer svg {
+    height: 380px;
+}
+
+.axis text {
+    font-size: 20px;
+}
+circle.event {
+    stroke: #A8BDD3;
+    stroke-width:1;
+    fill: #fff;
+}
+circle.highlighted {
+    stroke: #0068A5;
+    stroke-width: 5px;
+}
+
+
+#toPopup {
+    z-index: 2000000;
+}
+circle.event:hover {
+    stroke: #0068A5;
+    stroke-width:4;
+    fill: #fff;
+    cursor: pointer;
+}
+
+circle.hasArticle {
+    stroke: #771b05;
+    stroke-width:2;
+    fill: #e03107;
+}
+
+circle.hasArticle:hover {
+    stroke: #0068A5;
+    fill: #fff;
+    stroke-width:6;
+    cursor: pointer;
+}
+
+text {
+    cursor: pointer;
+}
+.tick {
+    stroke: #000;
+    stroke: #0068A5;
+    stroke-width:1;
+}
+
+.tick text{
+    /*color: #0068A5;*/
+    /*text-anchor: top;*/
+/*
+    font-style:italic;
+*/
+    stroke: #6399C3;
+    fill: #6399C3;
+}
+
+.domain {
+    stroke: #A8BDD3;
+    stroke-width: 3;
+    stroke-linecap: round;
+    fill: none;
+}
+
+path {
+    stroke: #A8BDD3;
+    stroke-width: 2;
+    stroke-linecap: round;
+    /*fill: #f6f;*/
+}
+
+.faded {
+    opacity: 0.1;
+}
+/*Outline colour:  #0068A5
+
+shade 1: #0085BC
+shade 2: #6399C3
+shade 3: #A8BDD3*/

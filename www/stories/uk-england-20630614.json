@@ -1,0 +1,99 @@
+{
+  "results" : [ {
+    "summary" : "Two teenagers are held on suspicion of murder after a 15-year-old boy is fatally stabbed in a park in Birmingham.",
+    "type" : "STY",
+    "lastUpdated" : "2013-07-16T19:34:27+00:00",
+    "firstCreated" : "2012-12-06T16:27:29+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/3909ba16-8335-5545-b012-a7d973856c7b\"><image id=\"68759754\"/><paragraph role=\"introduction\">A 15-year-old boy has been stabbed to death in a fight between two groups of young people in a park in Birmingham, police said.</paragraph><paragraph>Four teenagers were arrested following the attack at 17:55 BST on Monday in Wash Lane, South Yardley.</paragraph><paragraph>Hassan Mahmood was taken to hospital but died a short time later.</paragraph><paragraph>Two 16-year-old boys from the city remain in custody after being arrested on suspicion of murder. Two boys aged 15 and 17 were released without charge.</paragraph><paragraph>A post-mortem examination is due to take place on Wednesday and specialist liaison officers are supporting Hassan Mahmood's family. </paragraph><crosshead>'Gone too far'</crosshead><paragraph>Officers cordoned off the area and a floodlit search was carried out.</paragraph><paragraph>BBC WM reporter Michelle Dawes said several bouquets of flowers had been left outside Oaklands Park.</paragraph><image id=\"68763393\"/><paragraph>She said the brother and sister of Hassan were among those who laid flowers and tied balloons to the park's gates.</paragraph><paragraph>His sister said: \"All I want is for everyone to pray for us as we come to terms with this great loss.\"</paragraph><paragraph>Det Insp Tom Chisholm said: \"This was a tragic incident and our deepest condolences go out to the young man's family.\"</paragraph><paragraph>Police said they were looking at CCTV footage which may have captured the incident and were appealing for anyone who was in the area at the time to contact them. </paragraph><paragraph>Mr Chisholm said: \"We are aware that there were groups of young people in the area, some of whom may have left the scene before the police arrived. </paragraph><paragraph>\"There is some suggestion that this was a fight which has tragically gone too far.\"</paragraph><crosshead>'Bright future'</crosshead><paragraph>The 15-year-old was a pupil at the Rightrack independent school in Saltley and his head teacher Sohail Aslam said the teenager had only recently joined them.</paragraph><paragraph>Mr Aslam said: \"He had been with us six weeks but had settled very quickly and was well-liked by all the staff and students.</paragraph><paragraph>\"He was very respectful towards everybody, we'd had no problems and he had a bright future.\"</paragraph><paragraph>The head teacher said Hassan had been studying for his GCSEs and enjoyed \"sports and singing\".</paragraph><paragraph>The school is considering some form of tribute to the pupil in conjunction with the boy's family.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/3909ba16-8335-5545-b012-a7d973856c7b\"><paragraph>A 15-year-old boy has been stabbed to death in a fight between two groups of young people in a park in Birmingham, police said.</paragraph><paragraph>Four teenagers were arrested following the attack at 17:55 BST on Monday in Wash Lane, South Yardley.</paragraph><paragraph>Hassan Mahmood was taken to hospital but died a short time later.</paragraph><paragraph>Two 16-year-old boys from the city remain in custody after being arrested on suspicion of murder. Two boys aged 15 and 17 were released without charge.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "51606573" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/51606000/jpg/_51606573_fa1d16c0-9c6c-4f82-b0b8-ab66ddd94f78.jpg",
+            "altText" : "Breaking news",
+            "positionHint" : "body-narrow-width"
+          },
+          "68763393" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/68763000/jpg/_68763393_flowers-michelledawes.jpg",
+            "caption" : "Floral tributes to Hassan Mahmood have been left in Oaklands Park",
+            "altText" : "Floral tributes at the scene of a stabbing in Yardley",
+            "positionHint" : "body-narrow-width"
+          },
+          "68758005" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/68758000/jpg/_68758005_wash-lane.jpg",
+            "caption" : "Officers cordoned off the area and a floodlit search of the area was carried out",
+            "altText" : "Wash Lane, Yardley, image from Google Earth",
+            "positionHint" : "body-width"
+          },
+          "68759754" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/68759000/jpg/_68759754_policesearch-michelledawes.jpg",
+            "caption" : "Police searching Oaklands Park, Yardley near the scene of the stabbing",
+            "altText" : "Police searching Oaklands Park, Yardley, near the scene of the stabbing",
+            "positionHint" : "body-width"
+          },
+          "68758007" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/68758000/jpg/_68758007_wash-lane.jpg",
+            "caption" : "Officers cordoned off the area and a floodlit search of the area was carried out",
+            "altText" : "Wash Lane, Yardley, image from Google Earth",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "68759585" : {
+            "height" : 540,
+            "width" : 960,
+            "href" : "http://news.bbcimg.co.uk/media/images/68759000/jpg/_68759585_flowers-michelledawes.jpg",
+            "altText" : "Floral tributes at the scene of a stabbing in Yardley"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "West Midlands Police",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.west-midlands.police.uk/",
+          "highweb" : "http://www.west-midlands.police.uk/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-20630614",
+    "assetId" : "20630614",
+    "headline" : "Yardley stabbing: Boy, 15, stabbed to death in fight",
+    "shortHeadline" : "Boy, 15, stabbed to death in fight",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.20630614.page"
+  } ]
+}

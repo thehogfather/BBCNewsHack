@@ -1,0 +1,76 @@
+{
+  "results" : [ {
+    "summary" : "A man is to be charged with murdering 16-year-old Christina Edkins, who was stabbed to death on a bus in Birmingham.",
+    "type" : "STY",
+    "lastUpdated" : "2013-03-12T14:51:39+00:00",
+    "firstCreated" : "2013-03-12T13:09:57+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/f0505be0-7d58-ce4d-b36e-d70d09519b01\"><image id=\"66252167\"/><paragraph role=\"introduction\">A man arrested over the fatal stabbing of a 16-year-old girl on a bus is to be charged with murder, police have said. </paragraph><paragraph>Christina Edkins was stabbed on a bus on Hagley Road in Birmingham on Thursday, on her way to school in Halesowen.</paragraph><paragraph>Police said they would formally charge Phillip Simelane, 22, in the \"near future\" following authorisation from the Crown Prosecution Service. </paragraph><paragraph>Christina's parents said her death had left them \"heartbroken\".</paragraph><paragraph>In a statement released by police, Kathleen and Jason Edkins said she was \"bubbly, beautiful and intelligent\". </paragraph><crosshead>'Amazing individual'</crosshead><paragraph>They added: \"We are heartbroken by the loss of our beautiful princess, Christina, and it's hard to find words to describe the pain we're all feeling.</paragraph><paragraph>\"Her family and friends will remember her as an amazing individual with her whole life ahead of her.</paragraph><paragraph>\"A life that was tragically cut short on that Thursday morning. Our lives will never be the same again.\"</paragraph><image id=\"66270998\"/><paragraph>A post-mortem examination revealed the teenager died from a single stab wound to her chest.</paragraph><paragraph>An inquest into her death is due to be opened and adjourned at Birmingham Coroner's Court on Thursday.</paragraph><paragraph>On Friday Mr Simelane, from Walsall, West Midlands, was sectioned under the Mental Health Act.</paragraph><paragraph>Hundreds of flowers and tributes were left outside Leasowes High School in Halesowen, where Christina was a pupil.</paragraph><paragraph>Counsellors were brought in to support pupils and staff after the teenager's death. </paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/f0505be0-7d58-ce4d-b36e-d70d09519b01\"><paragraph>A man arrested over the fatal stabbing of a 16-year-old girl on a bus is to be charged with murder, police have said. </paragraph><paragraph>Christina Edkins was stabbed on a bus on Hagley Road in Birmingham on Thursday, on her way to school in Halesowen. </paragraph><paragraph>Police said they would formally charge Phillip Simelane, 22, in the \"near future\" following authorisation from the Crown Prosecution Service. </paragraph><paragraph>Christina's parents said her death had left them \"heartbroken\". </paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "66252167" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/66252000/png/_66252167_40201337-1253-1.png",
+            "caption" : "Christina died from a single stab wound to the chest",
+            "altText" : "Christina Edkins",
+            "positionHint" : "body-narrow-width"
+          },
+          "66270998" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/66270000/jpg/_66270998_5b81ab8a-30c0-4cfd-bcf1-eeadb8a0525c.jpg",
+            "caption" : "Dozens of bunches of flowers were left outside Leasowes High School",
+            "altText" : "Flowers outside the school",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "66252169" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/66252000/jpg/_66252169_66252168.jpg",
+            "altText" : "Christina Edkins"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : false,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-GB",
+    "assetUri" : "/news/uk-england-21758146",
+    "assetId" : "21758146",
+    "headline" : "Christina Edkins bus stabbing: Man to be charged with murder",
+    "shortHeadline" : "Man to be charged with bus murder",
+    "section" : {
+      "name" : "England",
+      "uri" : "/news/england"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.story.21758146.page"
+  } ]
+}

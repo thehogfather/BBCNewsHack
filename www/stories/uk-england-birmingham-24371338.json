@@ -1,0 +1,132 @@
+{
+  "results" : [ {
+    "summary" : "CCTV images have been released of the man who killed 16-year-old Christina Edkins boarding the bus prior to her being stabbed.",
+    "type" : "MAP",
+    "lastUpdated" : "2013-10-02T15:04:40+00:00",
+    "firstCreated" : "2013-10-02T14:02:14+00:00",
+    "hasShortForm" : false,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/c716b2bc-e66b-df44-9791-8d32bb0e6a08\"><paragraph>CCTV images have been released of the man who killed 16-year-old Christina Edkins boarding the bus in Birmingham prior to her being stabbed.</paragraph><paragraph>Phillip Simelane, from Walsall, has been detained indefinitely under the Mental Health Act after killing the teenager in a random attack as she made her way to school in March.</paragraph><paragraph>The 23-year-old admitted manslaughter in a hearing at Birmingham Crown Court.</paragraph><paragraph>Images of him boarding the bus have been released by West Midlands Police.</paragraph></body>",
+    "media" : {
+      "images" : {
+        "index" : {
+          "70236866" : {
+            "height" : 360,
+            "width" : 640,
+            "href" : "http://news.bbcimg.co.uk/media/images/70236000/jpg/_70236866_cctv210.jpg",
+            "altText" : "Phillip Simelane on the bus"
+          }
+        }
+      },
+      "videos" : {
+        "primary" : {
+          "70236820" : {
+            "duration" : "PT18S",
+            "available" : true,
+            "mimeType" : "application/xml",
+            "href" : "http://playlists.bbc.co.uk/news/uk-england-birmingham-24371338A/playlist.sxml",
+            "externalId" : "p01hyfwm",
+            "caption" : "Simelane was on the bus for more than two-and-a-half hours",
+            "guidance" : "This video has no sound",
+            "allowOffSiteEmbedding" : false,
+            "live" : false,
+            "image" : {
+              "height" : 360,
+              "width" : 640,
+              "href" : "http://news.bbcimg.co.uk/media/images/70236000/jpg/_70236866_cctv210.jpg",
+              "altText" : "Phillip Simelane on the bus"
+            }
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "A man whose mental health was the subject of warnings is detained for killing schoolgirl Christina Edkins in a random attack on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-02T15:24:05+00:00",
+        "firstCreated" : "2013-10-01T18:56:13+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-24358473",
+        "headline" : "Christina Edkins killing: Phillip Simelane detained",
+        "shortHeadline" : "Man detained for random bus killing",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "nolapps593-6006"
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "A man whose mental health was the subject of warnings is detained for killing schoolgirl Christina Edkins in a random attack on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-02T15:24:05+00:00",
+        "firstCreated" : "2013-10-01T18:56:13+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-24358473",
+        "headline" : "Christina Edkins killing: Phillip Simelane detained",
+        "shortHeadline" : "Man detained for random bus killing",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "nolapps593-6006"
+      } ]
+    }, {
+      "type" : "more-media-asset-pages",
+      "items" : [ {
+        "title" : "AV content promotion hyperpuff - importers - LIVE",
+        "type" : "HYP",
+        "lastUpdated" : "2010-07-13T10:49:39+00:00",
+        "firstCreated" : "2010-07-02T16:30:56+00:00",
+        "language" : "en-gb",
+        "assetUri" : "/news/10301118",
+        "section" : {
+          "name" : "Video",
+          "uri" : "/news/video_and_audio"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "NOLAPPS201-6004"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-24371338",
+    "assetId" : "24371338",
+    "headline" : "Christina Edkins case: CCTV of killer Phillip Simelane released",
+    "shortHeadline" : "CCTV of bus girl killer released",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "workerCallingCard" : "NOLAPPS202-6001",
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.media_asset.24371338.page",
+    "mediaType" : "Video"
+  } ]
+}

@@ -1,0 +1,128 @@
+{
+  "results" : [ {
+    "summary" : "A man suspected of stabbing a pregnant woman in a Birmingham car park is arrested, as police say the victim is in a critical but stable condition.",
+    "type" : "STY",
+    "lastUpdated" : "2013-07-03T11:42:45+00:00",
+    "firstCreated" : "2013-07-03T11:01:04+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/bb816e57-ee5b-9449-8fd7-925ba0760961\"><paragraph role=\"introduction\">A man suspected of stabbing a pregnant woman in a Birmingham car park has been arrested.</paragraph><paragraph>Police were looking for Leon Harrison, 33, after the woman was knifed in the car park of Fitness First, Stirchley at about 14:00 BST on Monday.</paragraph><paragraph>The victim remains in a critical but stable condition, police said.</paragraph><paragraph>The 31-year-old, who was in the early stages of pregnancy, is understood to be known to Mr Harrison, from Kings Heath, the West Midlands force said.</paragraph><paragraph>Detectives still want to speak to the male driver of a blue Renault vehicle, who was leaving the car park in Pershore Road as the attack happened.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/bb816e57-ee5b-9449-8fd7-925ba0760961\"><paragraph>A man suspected of stabbing a pregnant woman in a Birmingham car park has been arrested.</paragraph><paragraph>Police were looking for Leon Harrison, 33, after the woman was knifed in the car park of Fitness First, Stirchley at about 14:00 BST on Monday.</paragraph><paragraph>The victim remains in a critical but stable condition, police said.</paragraph><paragraph>The 31-year-old, who was in the early stages of pregnancy, is understood to be known to Mr Harrison, from Kings Heath, the West Midlands force said.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "68510562" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/68510000/jpg/_68510562_9dce1bbf-06bc-4f86-aee0-31f114c44889.jpg",
+            "caption" : "Police had released a picture of Leon Harrison, from Kings Heath, following the stabbing on Monday",
+            "altText" : "Leon Harrison",
+            "positionHint" : "body-width"
+          }
+        },
+        "index" : {
+          "68485663" : {
+            "height" : 432,
+            "width" : 768,
+            "href" : "http://news.bbcimg.co.uk/media/images/68485000/jpg/_68485663_68483853.jpg",
+            "altText" : "Police tape"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "A woman is in a life-threatening condition after being stabbed several times in a car park in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-07-01T15:37:28+00:00",
+        "firstCreated" : "2013-07-01T14:37:10+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-23135220",
+        "headline" : "Stirchley stabbing: Woman attacked in car park",
+        "shortHeadline" : "Woman stabbed in city car park",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "A man suspected of stabbing a pregnant woman in a Birmingham car park is named by police.",
+        "type" : "STY",
+        "lastUpdated" : "2013-07-02T16:26:14+00:00",
+        "firstCreated" : "2013-07-02T16:19:27+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-23153359",
+        "headline" : "Leon Harrison named as Stirchley pregnant woman stabbing suspect",
+        "shortHeadline" : "Pregnant woman stabbing suspect hunt",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "A woman is in a life-threatening condition after being stabbed several times in a car park in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-07-01T15:37:28+00:00",
+        "firstCreated" : "2013-07-01T14:37:10+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-23135220",
+        "headline" : "Stirchley stabbing: Woman attacked in car park",
+        "shortHeadline" : "Woman stabbed in city car park",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "West Midlands Police",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.west-midlands.police.uk/",
+          "highweb" : "http://www.west-midlands.police.uk/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-23160070",
+    "assetId" : "23160070",
+    "headline" : "Stirchley stab suspect Leon Harrison arrested by police",
+    "shortHeadline" : "Pregnant woman stabbing suspect held",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.23160070.page"
+  } ]
+}

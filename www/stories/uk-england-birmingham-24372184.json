@@ -1,0 +1,238 @@
+{
+  "results" : [ {
+    "summary" : "A garden is opened in memory of a teenage girl who was stabbed to death on a bus in Birmingham.",
+    "type" : "STY",
+    "lastUpdated" : "2013-10-03T16:34:05+00:00",
+    "firstCreated" : "2013-10-02T14:15:40+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/b515908c-af8d-9043-b19e-495a022d1e5f\"><image id=\"67904120\"/><paragraph role=\"introduction\">A garden in memory of a teenage girl who was stabbed to death on a bus in March has officially opened.</paragraph><paragraph>Christina Edkins, 16, from Birmingham, was attacked on the number nine bus at Five Ways in Edgbaston.</paragraph><paragraph><!-- CPS Asset ID: 24386400 --><link><caption>On Wednesday, Phillip Simelane was detained</caption><url platform=\"highweb\" href=\"http://www.bbc.co.uk/news/uk-england-birmingham-24358473\"/></link> under the Mental Health Act after admitting her manslaughter.</paragraph><paragraph>The garden, opened by former England rugby player Phil Vickery, has been built at St Edmund's Catholic Primary in Spring Hill, Birmingham.</paragraph><paragraph>Christina, a former pupil of St Edmund's, was on her way to Leasowes High School in Halesowen to take an exam when she was killed by a single stab wound.</paragraph><paragraph>The head teacher of the high school, Neil Shaw, said if he had the chance to choose the sort of pupil he would like to teach, \"[he] would fill the school with Christinas\".</paragraph><image id=\"70258962\"/><paragraph>The rugby charity Wooden Spoon gave £8,000 of the £10,000 needed to build the garden in the grounds of the school in Roseberry Street. </paragraph><paragraph>The rest of the money was raised by school pupils and the police.</paragraph><paragraph>Mary O'Friel, head teacher of St Edmund's, said a special Mass had been held with her pupils in memory of Christina.</paragraph><paragraph>\"Some of the children have older brothers or sisters who knew Christina, so it is very real to them,\" she said.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/b515908c-af8d-9043-b19e-495a022d1e5f\"><paragraph>A garden in memory of a teenage girl who was stabbed to death on a bus in March has officially opened.</paragraph><paragraph>Christina Edkins, 16, from Birmingham, was attacked on the number nine bus at Five Ways in Edgbaston.</paragraph><paragraph>On Wednesday, Phillip Simelane was detained under the Mental Health Act after admitting her manslaughter.</paragraph><paragraph>The garden, opened by former England rugby player Phil Vickery, has been built at St Edmund's Catholic Primary in Spring Hill, Birmingham.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "67904120" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/67904000/jpg/_67904120_66252168.jpg",
+            "caption" : "Christina Edkins was stabbed as she travelled to school on 7 March",
+            "altText" : "Christina Edkins",
+            "positionHint" : "body-narrow-width"
+          },
+          "70258961" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/70258000/jpg/_70258961__70259316_8c6226ce-28e4-4952-b7d9-ef75b8957898.jpg",
+            "caption" : "The garden is at the teenager's old school",
+            "altText" : "mourners in the rain",
+            "positionHint" : "body-narrow-width"
+          },
+          "70258962" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/70258000/jpg/_70258962__70259318_d3798a04-9391-47e9-8dae-82571c7781ad.jpg",
+            "caption" : "Money for the garden was raised by Wooden Spoon, school pupils and the police",
+            "altText" : "garden",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "69889568" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/69889000/jpg/_69889568_66252168.jpg",
+            "caption" : "Christina Edkins was stabbed as she travelled to school on 7 March",
+            "altText" : "Christina Edkins"
+          }
+        },
+        "index-thumbnail" : {
+          "69889571" : {
+            "height" : 180,
+            "width" : 320,
+            "href" : "http://news.bbcimg.co.uk/media/images/69889000/jpg/_69889571_66252168.jpg",
+            "caption" : "Christina Edkins was stabbed as she travelled to school on 7 March",
+            "altText" : "Christina Edkins"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "How children traumatised by the murder of a 16-year-old stabbed on a bus were helped by channelling their memories into producing a magazine.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-02T13:44:02+00:00",
+        "firstCreated" : "2013-09-05T15:56:35+00:00",
+        "hasShortForm" : false,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-23975865",
+        "headline" : "Christina Edkins: How pupils were helped to deal with her murder",
+        "shortHeadline" : "Channelling memories positively",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "NOLAPPS571-6007"
+      }, {
+        "summary" : "A primary school is fundraising for a memorial award in honour of a 16-year-old girl who was fatally stabbed on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-07-22T08:11:33+00:00",
+        "firstCreated" : "2013-07-22T06:25:01+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-23402388",
+        "headline" : "Bus stab victim Christina Edkins honoured in sport award",
+        "shortHeadline" : "School honour for bus stabbing girl",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Tributes are paid to a 16-year-old schoolgirl who was stabbed to death on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-03-07T20:07:44+00:00",
+        "firstCreated" : "2013-03-07T18:41:12+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-birmingham-21708079",
+        "headline" : "Christina Edkins stab death: Tributes to Birmingham schoolgirl",
+        "shortHeadline" : "Friends pay tribute to stabbed girl",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "A man whose mental health was the subject of warnings is detained for killing schoolgirl Christina Edkins in a random attack on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-02T15:24:05+00:00",
+        "firstCreated" : "2013-10-01T18:56:13+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-24358473",
+        "headline" : "Christina Edkins killing: Phillip Simelane detained",
+        "shortHeadline" : "Man detained for random bus killing",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "nolapps593-6006"
+      }, {
+        "summary" : "How children traumatised by the murder of a 16-year-old stabbed on a bus were helped by channelling their memories into producing a magazine.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-02T13:44:02+00:00",
+        "firstCreated" : "2013-09-05T15:56:35+00:00",
+        "hasShortForm" : false,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-23975865",
+        "headline" : "Christina Edkins: How pupils were helped to deal with her murder",
+        "shortHeadline" : "Channelling memories positively",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "NOLAPPS571-6007"
+      }, {
+        "summary" : "A primary school is fundraising for a memorial award in honour of a 16-year-old girl who was fatally stabbed on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-07-22T08:11:33+00:00",
+        "firstCreated" : "2013-07-22T06:25:01+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-23402388",
+        "headline" : "Bus stab victim Christina Edkins honoured in sport award",
+        "shortHeadline" : "School honour for bus stabbing girl",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "The community is still in shock following the fatal stabbing of schoolgirl Christina Edkins on a Birmingham bus, a vicar says.",
+        "type" : "STY",
+        "lastUpdated" : "2013-03-10T11:56:53+00:00",
+        "firstCreated" : "2013-03-10T10:17:52+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-21732982",
+        "headline" : "Christina Edkins stabbing: Community 'still in shock'",
+        "shortHeadline" : "Community 'in shock' after stabbing",
+        "section" : {
+          "name" : "England",
+          "uri" : "/news/england"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "Wooden Spoon",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.woodenspoon.com/",
+          "highweb" : "http://www.woodenspoon.com/"
+        },
+        "assetTypeCode" : "URL"
+      }, {
+        "title" : "Rugby Football Union",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.rfu.com/",
+          "highweb" : "http://www.rfu.com/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-24372184",
+    "assetId" : "24372184",
+    "headline" : "Christina Edkins: Memorial garden opens for bus stab victim",
+    "shortHeadline" : "Memorial garden for stabbed teenager",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "workerCallingCard" : "nolapps593-6002",
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.24372184.page"
+  } ]
+}

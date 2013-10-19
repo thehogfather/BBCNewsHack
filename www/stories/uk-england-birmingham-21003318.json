@@ -1,0 +1,129 @@
+{
+  "results" : [ {
+    "summary" : "A 23-year-old man charged with murdering two Big Issue sellers who were stabbed in the centre of Birmingham is remanded in custody.",
+    "type" : "STY",
+    "lastUpdated" : "2013-01-14T19:09:29+00:00",
+    "firstCreated" : "2013-01-13T11:00:27+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/54db04db-1fee-5044-b5c8-da7a56a463f9\"><image id=\"65251617\"/><paragraph role=\"introduction\">A man charged with murdering two Big Issue sellers who were stabbed in the centre of Birmingham has been remanded in custody.</paragraph><paragraph>John Ward, 23, of no fixed address, was remanded until Wednesday by Birmingham Magistrates' Court.</paragraph><paragraph>Wayne Busst, 32, and Ian Gladwish, 31, both from the city, were stabbed in Union Street shortly before 18:00 GMT on Friday.</paragraph><paragraph>Despite first aid from passers-by and police officers they died at the scene.</paragraph><paragraph>One of the men was stabbed outside Sainsbury's in Union Street, while the other was found slumped nearby outside a side entrance to Boots.</paragraph><paragraph>Police had said there could have been hundreds of witnesses to the stabbings.</paragraph><paragraph>The families of both victims have paid tribute to the men.</paragraph><crosshead>'Hope for justice'</crosshead><paragraph>A statement from Mr Busst's family read: \"We are deeply saddened by Wayne's death, he will be greatly missed by all his family and all that knew him. </paragraph><paragraph>\"We also think of Ian's family as they share in the grief at this sad time. </paragraph><paragraph>\"We ask the press to respect the family's request for privacy at this time, so that we can grieve in peace. </paragraph><image id=\"65250387\"/><paragraph>\"The family would ask any member of the public with information that may assist the police investigation come forward.\" </paragraph><paragraph>The family of Mr Gladwish said: \"Ian was a husband, son, brother and dad. He was a kind loving person.</paragraph><paragraph>\"To be taken away from us in these circumstances has left us all devastated, we will miss him dearly. </paragraph><paragraph>\"We would like to thank everybody for their support during this difficult time and request that we are left to grieve in peace. </paragraph><paragraph>\"Our sincerest condolences also go out to Wayne's family.\" </paragraph><paragraph>Big Issue founder and editor-in-chief John Bird also paid tribute to the two vendors and said everyone at the magazine was \"absolutely devastated\".</paragraph><paragraph>Mr Bird said: \"They were very, very popular with our office staff there and had worked as vendors for a long time.\"</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/54db04db-1fee-5044-b5c8-da7a56a463f9\"><paragraph>A man charged with murdering two Big Issue sellers who were stabbed in the centre of Birmingham has been remanded in custody.</paragraph><paragraph>John Ward, 23, of no fixed address, was remanded until Wednesday by Birmingham Magistrates' Court.</paragraph><paragraph>Wayne Busst, 32, and Ian Gladwish, 31, both from the city, were stabbed in Union Street shortly before 18:00 GMT on Friday.</paragraph><paragraph>Despite first aid from passers-by and police officers they died at the scene.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "65238044" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65238000/jpg/_65238044_stabbing.jpg",
+            "caption" : "West Midlands Police have cordoned off part of Martineau Place and Union Street",
+            "altText" : "Police incident in Martineau Place",
+            "positionHint" : "body-narrow-width"
+          },
+          "65238921" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65238000/jpg/_65238921_birmingham_police_cordon.jpg",
+            "altText" : "A shop and police cordon",
+            "positionHint" : "body-narrow-width"
+          },
+          "65250387" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65250000/jpg/_65250387_jex_7407_de27-1.jpg",
+            "caption" : "Union Street was cordoned off on Friday night after the stabbings",
+            "altText" : "Union Street closed on Friday night",
+            "positionHint" : "body-narrow-width"
+          },
+          "65241081" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65241000/jpg/_65241081_jex_7408_de19-1.jpg",
+            "caption" : "Supt Richard Moore said it was important not \"to jump to conclusions\"",
+            "altText" : "Supt Richard Moore",
+            "positionHint" : "body-narrow-width"
+          },
+          "65241510" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65241000/jpg/_65241510_jex_7409_de47-1.jpg",
+            "caption" : "Extra police patrols were put on in the city centre over the weekend",
+            "altText" : "The front of Sainsbury's in Union Street on Saturday morning",
+            "positionHint" : "body-narrow-width"
+          },
+          "65251617" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65251000/jpg/_65251617_stabbing.jpg",
+            "caption" : "Wayne Busst and Ian Gladwish were Big Issue sellers",
+            "altText" : "Wayne Lee Busst (left) and Ian Watson Gladwish (right)",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "65251619" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/65251000/jpg/_65251619_stabbing.jpg",
+            "caption" : "Wayne Busst and Ian Gladwish had both been Big Issue sellers",
+            "altText" : "Wayne Lee Busst (left) and Ian Watson Gladwish (right)"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "One in three Big Issue sellers face abuse or assault, the charity said after the deaths of two of its vendors in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T15:57:13+00:00",
+        "firstCreated" : "2013-01-14T12:29:55+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21013394",
+        "headline" : "One in three Big Issue sellers face abuse or assault",
+        "shortHeadline" : "Big Issue seller abuse 'common'",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts/",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-21003318",
+    "assetId" : "21003318",
+    "headline" : "Birmingham stabbings: Man in court over Big Issue deaths",
+    "shortHeadline" : "Murder charges over Big Issue men",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.21003318.page"
+  } ]
+}

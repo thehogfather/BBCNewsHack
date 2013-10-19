@@ -1,0 +1,195 @@
+{
+  "results" : [ {
+    "summary" : "A memorial service for two Big Issue sellers who were stabbed to death in Birmingham is held at a city centre church.",
+    "type" : "STY",
+    "lastUpdated" : "2013-01-24T17:12:31+00:00",
+    "firstCreated" : "2013-01-24T12:51:22+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/f235a221-0640-6c4c-a130-b9d7495dae18\"><!-- Embedded video --><video media-id=\"65498999\">    <caption>Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago</caption>  </video><paragraph role=\"introduction\">A memorial service has been held at a church in Birmingham for two Big Issue sellers who were stabbed to death in the city.</paragraph><paragraph>Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago. A 23-year old man has been charged with their murders. </paragraph><paragraph>The service was held at St Martin's Church in the city centre.</paragraph><paragraph>Big Issue founder John Bird described the two men as being \"very, very popular\".</paragraph><crosshead>'Good people'</crosshead><paragraph>Bill West, who described himself as a friend of Mr Gladwish from the streets, said the deaths had brought a lot of people together.</paragraph><paragraph>\"It has also bought Big Issue vendors closer together and the public have been very nice and showing sympathy towards vendors,\" he said.</paragraph><paragraph>\"There is genuine feeling in the city and sympathy coming from around the world. There are still good people out there.\"</paragraph><image id=\"65493363\"/><paragraph>The Reverend Emma Sykes told the congregation news of the men's death was \"sad and shocking\".</paragraph><paragraph>She said: \"Today we have a chance to come together, to remember their lives, to give thanks for them, to pray for their family and friends but to also pray for our city and the many who every day live and work in its streets.\"</paragraph><paragraph>Paying tribute to the men, Tom Belte, West Midlands area manager for the Big Issue, said the men were getting a \"hand up, not a hand out\" by working for the magazine.</paragraph><paragraph>\"They were using it to improve themselves and they got the support,\" he said.</paragraph><paragraph>Former Big Issue worker Richard Jones said: \"I understand how it is out there. You have to put yourself out there and you are at risk from anything.\"</paragraph><paragraph>Mr Busst's brother Jack said he was planning a sponsored skydive in May in memory of his brother to raise money for The Big Issue Foundation.</paragraph><paragraph>Mr McNamee said the magazine wanted the public to send in anecdotes and pictures of their local vendors.</paragraph><paragraph>\"Following the killings of Ian and Wayne we were inundated with messages of condolence for them and support for vendors across the country. </paragraph><paragraph>\"People have a real connection with their vendors. I wanted to build on this, and make something positive from the terrible deaths.\"</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/f235a221-0640-6c4c-a130-b9d7495dae18\"><paragraph>A memorial service has been held at a church in Birmingham for two Big Issue sellers who were stabbed to death in the city.</paragraph><paragraph>Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago. A 23-year old man has been charged with their murders.</paragraph><paragraph>The service was held at St Martin's Church in the city centre.</paragraph><paragraph>Big Issue founder John Bird described the two men as being \"very, very popular\".</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "65238044" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65238000/jpg/_65238044_stabbing.jpg",
+            "caption" : "West Midlands Police have cordoned off part of Martineau Place and Union Street",
+            "altText" : "Police incident in Martineau Place",
+            "positionHint" : "body-narrow-width"
+          },
+          "65238921" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65238000/jpg/_65238921_birmingham_police_cordon.jpg",
+            "altText" : "A shop and police cordon",
+            "positionHint" : "body-narrow-width"
+          },
+          "65250387" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65250000/jpg/_65250387_jex_7407_de27-1.jpg",
+            "caption" : "Union Street was cordoned off on Friday night after the stabbings",
+            "altText" : "Union Street closed on Friday night",
+            "positionHint" : "body-narrow-width"
+          },
+          "65241081" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65241000/jpg/_65241081_jex_7408_de19-1.jpg",
+            "caption" : "Supt Richard Moore said it was important not \"to jump to conclusions\"",
+            "altText" : "Supt Richard Moore",
+            "positionHint" : "body-narrow-width"
+          },
+          "65241510" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65241000/jpg/_65241510_jex_7409_de47-1.jpg",
+            "caption" : "Extra police patrols were put on in the city centre over the weekend",
+            "altText" : "The front of Sainsbury's in Union Street on Saturday morning",
+            "positionHint" : "body-narrow-width"
+          },
+          "65251617" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65251000/jpg/_65251617_stabbing.jpg",
+            "caption" : "Wayne Busst and Ian Gladwish died on 11 January",
+            "altText" : "Wayne Lee Busst (left) and Ian Watson Gladwish (right)",
+            "positionHint" : "body-narrow-width"
+          },
+          "65493363" : {
+            "height" : 224,
+            "width" : 224,
+            "href" : "http://news.bbcimg.co.uk/media/images/65493000/jpg/_65493363_photo.jpg",
+            "caption" : "Mr West said the public had \"showed sympathy\" to Big Issue sellers",
+            "altText" : "Bill West"
+          }
+        },
+        "index" : {
+          "65251619" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/65251000/jpg/_65251619_stabbing.jpg",
+            "caption" : "Wayne Busst and Ian Gladwish had both been Big Issue sellers",
+            "altText" : "Wayne Lee Busst (left) and Ian Watson Gladwish (right)"
+          }
+        }
+      },
+      "videos" : {
+        "body" : {
+          "65498999" : {
+            "duration" : "PT1M47S",
+            "available" : true,
+            "mimeType" : "application/xml",
+            "href" : "http://playlists.bbc.co.uk/news/uk-england-birmingham-21190874A/playlist.sxml",
+            "externalId" : "p0146j0l",
+            "caption" : "Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago",
+            "allowOffSiteEmbedding" : false,
+            "live" : false,
+            "image" : {
+              "height" : 360,
+              "width" : 640,
+              "href" : "http://news.bbcimg.co.uk/media/images/65498000/jpg/_65498691_candles.jpg",
+              "altText" : "Candles at a memorial service"
+            }
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "A 23-year-old man charged with murdering two Big Issue sellers who were stabbed in the centre of Birmingham is remanded in custody.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T19:09:29+00:00",
+        "firstCreated" : "2013-01-13T11:00:27+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21003318",
+        "headline" : "Birmingham stabbings: Man in court over Big Issue deaths",
+        "shortHeadline" : "Murder charges over Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "One in three Big Issue sellers face abuse or assault, the charity said after the deaths of two of its vendors in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T15:57:13+00:00",
+        "firstCreated" : "2013-01-14T12:29:55+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21013394",
+        "headline" : "One in three Big Issue sellers face abuse or assault",
+        "shortHeadline" : "Big Issue seller abuse 'common'",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "A 23-year-old man charged with murdering two Big Issue sellers who were stabbed in the centre of Birmingham is remanded in custody.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T19:09:29+00:00",
+        "firstCreated" : "2013-01-13T11:00:27+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21003318",
+        "headline" : "Birmingham stabbings: Man in court over Big Issue deaths",
+        "shortHeadline" : "Murder charges over Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts/",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : false,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-21183749",
+    "assetId" : "21183749",
+    "headline" : "Stabbed Big Issue sellers: Birmingham memorial service",
+    "shortHeadline" : "Service for killed Big Issue pair",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.21183749.page"
+  } ]
+}

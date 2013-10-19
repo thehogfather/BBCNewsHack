@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="./d3.js"
+                charset="utf-8"></script>
+        <script src="./d3.layout.cloud.js"
+                ></script>
+        <script data-main="js/app" src="js/lib/require.js"></script>
+        <style>
+            input {
+                width: 600px;
+                height: 30px;
+            }
+
+            line {
+                stroke: black;
+            }
+
+            circle {
+                fill: white;
+                stroke: #666;
+                stroke-width: 2px;
+            }
+            .x.axis path.domain{
+                stroke-width: 1px;
+                stroke: black;
+                fill: none;
+            }
+
+            rect.substory {
+                opacity: 0.5;
+                fill: #0069A6;
+
+            }
+
+            div#divSummary {
+                height: 200px;
+                width: 1500px;
+            }
+
+            .hasArticle {
+                stroke: red;
+            }
+
+            .highlighted {
+                stroke-width: 4px;
+            }
+
+            .about-h {
+                width: 700px;
+                margin-right:
+                    auto;
+                margin-left: auto;
+            }
+
+            .mainStoryLineEvent {
+                display: none;
+            }
+        </style>
+         <title>Timevine</title>
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/carousel.css" rel="stylesheet">
+    <link href="css/svg.css" rel="stylesheet">
+        <link href="style/style.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"> </script>
+<script type="text/javascript" src="js/script.js"></script>
+    </head>
+    <body>
+    <div id="myCarousel" class="carousel slide">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" ></li>
+        <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="item ">
+          <div class="container">
+            <div class="carousel-caption">
+              <img src="img/timevine-white.png" height="120">
+            </div>
+          </div>
+        </div>
+        <div class="item active">
+          <div class="container">
+            <div class="carousel-caption">
+
+               <div id='tagCloud'>
+
+                </div>
+                <img src="img/places-white.png" height="50" style="margin-left:400px">
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Places <img src="img/places-white.png" height="50" style="margin-left:20px"></h1>
+              <p>Key locations:</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div><!-- /.carousel -->
+        <h2 class="about-h">Visualising the Birmingham stabbings storyline</h2>
+
+      <div class="svgContainer">
+
+        </div>
+
+            <!--/div --><!-- /.container -->
+<div class="container marketing">
+  <div class="furtherInfo">
+  <h1 id="title"></h1>
+  <p class="details"></p>
+  </div>
+</div>
+
+        <div id="toPopup">
+
+        <div class="close"></div>
+           <span class="ecs_tooltip">Press Esc to close <span class="arrow"></span></span>
+        <div id="popup_content"> <!--your content start-->
+            <object type="text/html" data="" id="contentarea" width="800px" height="550px">
+            </object>
+        </div> <!--content end-->
+    </div> <!--toPopup end-->
+
+    <div class="loader"></div>
+       <div id="backgroundPopup"></div>
+         <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

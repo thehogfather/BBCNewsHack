@@ -1,0 +1,2854 @@
+{
+    "@context": {
+        "@language": "en",
+        "Event": "http://www.bbc.co.uk/ontologies/news/Event",
+        "NewsItem": "http://www.bbc.co.uk/ontologies/creativework/NewsItem",
+        "Storyline": "http://purl.org/ontology/storyline/Storyline",
+        "StorylineSlot": "http://purl.org/ontology/storyline/StorylineSlot",
+        "contains": "http://purl.org/ontology/storyline/contains",
+        "dateCreated": {
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@id": "http://www.bbc.co.uk/ontologies/creativework/dateCreated"
+        },
+        "description": "http://www.bbc.co.uk/ontologies/creativework/description",
+        "eventStartDate": {
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@id": "http://www.bbc.co.uk/ontologies/news/eventStartDate"
+        },
+        "hasSlot": "http://purl.org/ontology/storyline/hasSlot",
+        "preferredLabel": "http://www.bbc.co.uk/ontologies/coreconcepts/preferredLabel",
+        "product": "http://www.bbc.co.uk/ontologies/bbc/product",
+        "taggedOn": "http://www.bbc.co.uk/ontologies/creativework/taggedOn",
+        "title": "http://www.bbc.co.uk/ontologies/creativework/title"
+    },
+    "@graph": [
+        {
+            "preferredLabel": "Stabbings in Birmingham",
+            "@type": "Storyline",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/BirminghamMail",
+                "title": "Families pay tribute to knifed Birmingham Big Issue sellers",
+                "description": "Families of two Birmingham Big Issue sellers who were stabbed to death in Birmingham city centre have paid tribute to them",
+                "@type": "NewsItem",
+                "dateCreated": "2013-10-15T13:38:57Z",
+                "@id": "http://www.birminghammail.co.uk/news/local-news/birmingham-big-issue-seller-stabbing-6188854"
+            },
+            "dateCreated": "2013-10-17T12:10:57+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/8fad7673-6e90-40a4-a4ce-d3e148aedf98"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/ab666cd2-e45e-4bdb-b99c-42fccbb94009"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/177d91c1-72a8-49f7-a722-6238d4c68b97"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e77631bb-d9b2-40a3-a24e-3981763663c4"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/2889ddd9-f1a6-42a6-8071-50d730a684cc"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/6473d997-5f74-45ce-97a6-bb5f78dd07a4"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/752fa9ea-9929-41ef-94c6-ab8059342d92"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/15270637-7795-40a0-b426-ee25a6f4a5e6"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/899398f3-983b-4535-9601-cb1de3391ea3"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/d453823f-a04d-4114-be61-466fc2db8ec6"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/7adc7241-2b4f-4b26-a799-85bcbb391d68"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b4eb8371-3410-49da-8dbe-abe4bbb9040f"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/5657d03c-abbb-4710-a7bd-90ca6fef04a6"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/7477fb9b-ca58-4f83-b947-ce38b7c86a78"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/934719e0-9290-4e40-acba-2a4b2694934a"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/8198c7be-2e2c-4ba5-8b0a-f7e3e69395bc"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/5ee4cb5b-8d69-4db5-be32-dd2725bb202e"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/45c7174c-e2e6-4e9f-a526-57226445c395"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/48495e79-c49e-4350-ab1d-45edfcc43359"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/278b784a-6fea-4cc3-8044-095abb2c018e"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/4e8c0dbe-8dfa-4979-acbc-669daee45c6e"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b1f4f96c-d29c-495e-8c4e-724d6f02a7aa"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/4b97dbfe-52dc-4de2-9596-b0a57174df23"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/197dc2f7-a983-45bc-ac43-49863eafc8b3"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e3ea9bd9-9733-4c8f-bb7d-c714e46da283"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/1188e4b3-02ac-42ab-8db6-02a48f5bac64"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/a7c823c2-1e29-46cb-9c57-e3a67e3547a6"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/4b74f862-672d-4360-9768-752626adc99a"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/f84c3738-30f8-4ece-b285-227b59979d21"
+        },
+        {
+            "preferredLabel": "Stabbing of Kyle Sheehan in Bartley Green",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:21+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/a1606d28-15bc-4455-b68d-b205b9b71a02"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/c80012bd-8762-4ede-be70-ee893c0bee7a"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e4bef559-a402-4756-b106-ab00d496f5ae"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/fe25705f-5c6f-4118-9480-74353aece35d"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/66bd25be-4171-49b0-9702-6bf908cfc9a0"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/df65d5df-7e97-4889-8458-42c32ad0b7de"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/99c17347-9ddf-4de5-94de-e07e6cd11a96"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/85a074ca-18bd-448f-b802-c10921d669f5"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/7cb9b432-8b42-49a4-9d92-2ce535741cf3"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/42010194-e355-4c28-a7f0-7744204c3103"
+        },
+        {
+            "preferredLabel": "Depzman stabbing",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:20+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/38e86398-b877-40a4-ba99-3c784f94b8c2"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/f006df81-91c7-4d0a-95c1-e2fdce8488aa"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/693bdb8b-d9ea-4678-aa55-fd88e07776ce"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/2d5729da-8952-462b-819b-47a386a398da"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/f978b614-11a6-4ae3-9f7d-fb3292b9eaf1"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/9fb2993d-ef8a-4fe2-bde4-2ec528f5f27d"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/f87beb12-9e58-4fbb-9277-50cf123a5198"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/76fb81ad-3e38-44dd-842c-008d4b39a60b"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e8ca2ea5-e0c8-4bf2-9960-e1943a1c9be8"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b324e5a1-228f-4cfa-97f2-7571b3c53cb5"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/8605ed1d-fb8b-4fb6-9e6f-664a49448573"
+        },
+        {
+            "preferredLabel": "Stabbing of Azim Azam in Moseley",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:17+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/3ae92075-45df-4879-affe-5950f887e9fc"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/68b8817b-afcc-444a-a744-886180b442b8"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/bff24391-3732-4c39-bf49-00647351a161"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/637cc54c-73dc-4731-b8f6-93911627a7dd"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/57beda9e-cf85-4541-a952-b3575a3c966f"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/71a33205-a1b0-45ae-b199-cf8ba9c0eb97"
+        },
+        {
+            "preferredLabel": "Stabbing of Hassan Mahmood in South Yardley",
+            "@type": "Storyline",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Yardley stabbing: More time to quiz teen suspects",
+                "description": "Police are given more time to question two teenagers arrested after a 15-year-old boy was stabbed to death in a Birmingham park.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-07-17T15:04:57Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-23345142"
+            },
+            "dateCreated": "2013-10-17T12:26:14+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/a4beddba-d2bd-4559-b340-321c79875809"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/5dc5fb13-24fe-4b33-9e76-9fb997fd59e6"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/7b9f4987-7bd5-4b5d-b087-963acf07816a"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/5357db65-0d97-4aa4-8462-9a7fefd7f303"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/f7827335-c8af-4b74-a6cc-ed73089448ca"
+        },
+        {
+            "preferredLabel": "Mailbox Bar Room Bar stabbings",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:06+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/91175ef2-0a21-4e41-b361-291976a85a57"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/f3aa17a9-21b6-4a34-bbfc-1a0a8b0e9fae"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/ff32cdd6-3397-4a6d-bfa9-a373a75ccd97"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/43fe407f-ed6d-45ce-a6ca-1e37898c50dc"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/adb44941-fb63-4698-9e45-697934ddfefe"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/54781463-9409-49e6-bd66-5f4e3b283461"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/6f92e50a-b030-4a4a-975d-b7ff40714e35"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/382370ba-680d-4789-9d0c-ee8905fba637"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/82dfee17-8011-455a-9a9d-b6bcf40fb3c7"
+        },
+        {
+            "preferredLabel": "Stirchley car park stabbing",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:12+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/40078c77-df42-4fb5-afbc-2e333a2af278"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e51c8c7f-a8ce-4a1f-8fd7-079e47101032"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/9eada8bc-adc2-45b0-a702-fdfca2cf94ff"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/feb8a765-c144-4d63-a819-3c3a0e00c664"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/87efb8e4-6681-4602-81a3-d8412d30cb27"
+        },
+        {
+            "preferredLabel": "Ward End mosque stabbings",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:08+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/2d965112-5a73-4df6-a8dc-a4571e7998ff"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/65e0850b-567b-4945-a43a-4188db258d76"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/6aef286a-8ca4-4fc3-b679-8195c12eb6a5"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/61e7ea15-1744-4e66-abb7-60576b3566de"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e21c120d-8d4f-46e3-89d4-95660716b4a4"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/8f9f26b4-36ef-4761-9fb9-f3dc3d25c2ad"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/8f9d1437-209c-4ce1-8937-35c652ecbe5b"
+        },
+        {
+            "preferredLabel": "Erdington neck stabbing",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:52+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/4d493b8c-ee8d-42c4-b4ff-cb49ac26f5e9"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b4d7012f-f3ff-450e-8a7d-8b0da66c85fd"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/562efea8-c755-470e-b70b-2a6f6a227d1d"
+        },
+        {
+            "preferredLabel": "Edgbaston Spar stabbings",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:05+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/2481e532-080a-4752-86f7-61518049e8bf"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/0a841dec-370a-42af-8903-a024e34745c5"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/2d935691-0835-42a3-bf7a-b21caa22bfec"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/66ff1939-fa59-4284-b502-193f2fa1c498"
+        },
+        {
+            "preferredLabel": "China Red nightclub stabbings",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:26:09+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/3d1e6c28-a683-4b88-bcd6-d7fe7e909c4b"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/49c1fb9c-0094-4411-a7ee-778a9aa0a8ea"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e3021c8f-235d-4fdd-b4c2-05d233262340"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/f88f03d2-bc68-49a2-8467-8e233c2bc3a4"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b9fb9328-a237-48e9-b761-8ed1e1a06e8d"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/8a01e8b4-e49a-4335-8017-2eeeafb0266d"
+        },
+        {
+            "preferredLabel": "Big Issue seller stabbings",
+            "@type": "Storyline",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "One in three Big Issue sellers face abuse or assault",
+                        "description": "One in three Big Issue sellers face abuse or assault, the charity said after the deaths of two of its vendors in Birmingham.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-01-14T15:57:13Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21013394"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Birmingham stabbings: Attacker 'knew Big Issue victims'",
+                        "description": "Two Big Issue sellers who were stabbed to death in front of shoppers in Birmingham were probably known to their attacker, police say.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-01-13T13:09:01Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21003320"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Big Issue founder questioned future after Birmingham deaths",
+                        "description": "The founder of the Big Issue magazine says the killing of two homeless vendors in Birmingham \"almost destroyed\" the organisation's belief in itself.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-15T10:09:41Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24521330"
+                    }
+                ]
+            },
+            "dateCreated": "2013-10-17T12:25:57+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/f6f2c3e2-2433-4066-aed7-71008e066e7d"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/c36aed1c-9341-46ce-9c3c-65fb8907f807"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/10b47632-acae-433e-b725-33d0d9042490"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/3e37dc13-accb-4afe-b885-b223551f999c"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/ea9d0fff-1472-44b7-a001-4632cb71576a"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/3b414461-ba5e-440d-a86e-83878773df3d"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/87ebe086-4037-4006-9f3a-1ad8b549f0f2"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/91fa5b82-b5af-44f8-bb8a-5079e2c116a3"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/d1652056-3678-41b8-8d19-b46d2a3718c0"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e0ba5263-bc2b-4c24-a658-55df1f0e440a"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/c88aa5f3-f07f-4778-9ce4-b624a2f05d32"
+        },
+        {
+            "preferredLabel": "Stabbing of Shaista Khatoon in Alum Rock, Birmingham",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:54+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/7d66ecc5-c7b1-4be7-a111-3272cd5570e7"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/c919ee76-d093-4dac-a2b3-98bd8e88ad6c"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/263a0a32-8109-4830-b545-95ef618523aa"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/073d9390-4656-4eaf-90c6-6b8f3b089e0e"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/ebf60bfa-216d-463d-aeb4-45a279c77c82"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/7559dcf1-0469-4e7d-8dce-0bd82159c25b"
+        },
+        {
+            "preferredLabel": "Stabbing of Christina Edkins on Birmingham bus",
+            "@type": "Storyline",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins stabbing: Community 'still in shock'",
+                        "description": "The community is still in shock following the fatal stabbing of schoolgirl Christina Edkins on a Birmingham bus, a vicar says.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-03-10T11:56:53Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-21732982"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins bus stabbing: Single stab wound killed teenager",
+                        "description": "A 16-year-old girl who was attacked on rush-hour bus in Birmingham died from a single stab wound to the chest, post-mortem tests reveal.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-03-08T14:57:08Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21710567"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins stab death: Tributes to Birmingham schoolgirl",
+                        "description": "Tributes are paid to a 16-year-old schoolgirl who was stabbed to death on a bus in Birmingham.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-03-07T20:07:44Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21708079"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins: How pupils were helped to deal her murder",
+                        "description": "How children traumatised by the murder of a 16-year-old stabbed on a bus were helped by channelling their memories into producing a magazine.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-02T13:44:02Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-23975865"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins killing: Head teacher on 'shocking event'",
+                        "description": "The head teacher at the school that Christina Edkins attended has said that her death \"rocked the whole community\".",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-02T16:35:57Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-24374047"
+                    }
+                ]
+            },
+            "dateCreated": "2013-10-17T12:25:58+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b84f8627-17ef-480b-b75e-e2b9a1a8a3c2"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/8036cc23-6a82-45b6-92e0-21b5a5acaaec"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/bbe898c5-59f9-4830-aa89-88cfa1a41200"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/56973bbd-eb92-4dfe-ba5b-032494b7dbfa"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e7b377fb-e871-4b5d-94e6-b90f132d38dc"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b54d6d2b-660a-4c4e-a480-716a2be89551"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/cbced93f-80a9-46ef-8770-08d80e520592"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/aff8c7cf-9245-48d6-b3bd-d461607b9219"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/bd69c3b1-45f9-49c8-8d5a-1125d61939c5"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e85f5acd-c09a-4ddb-aaf1-8cc0cd007dbc"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/782b383d-08b9-43c9-b4f5-31e808f0c53f"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/42637c2e-04e8-4e47-948d-1a592d4d2b33"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/d51cd941-0599-4191-a7c9-033b393a5e6e"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e669c7f4-fbbd-4c9e-bfc8-804461892bf8"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/92656f66-ffa8-4436-827e-c56c429f7974"
+        },
+        {
+            "preferredLabel": "Stabbing of Oliver Smith in Druids Heath",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:40+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/47dad3f6-92a5-421e-8676-cb06b48528e6"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/fd35dc34-9ed9-4915-8667-0ace8870d845"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/9ecdf7ff-ee49-4ac3-9180-496efa6686b5"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/5382cf69-19b1-4e60-9cc7-534cce6d8a51"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/073039aa-54f1-44dd-ae7b-ceffb53672d8"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/3ada41d9-fbd6-4d23-97f9-e8094c110e85"
+        },
+        {
+            "preferredLabel": "Stabbing of Natasha Trevis in Northfield",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:46+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/284de95f-7977-46ff-a06b-fa629fa1fa21"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/6c143650-8b0a-4450-835f-3802316621b4"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/127c7443-e28a-4a57-bc05-eb620bebaa83"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/c9942bb6-7305-445e-91e9-a9d514f34683"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/12adc46a-68e7-4ffb-8266-d9d7041bfec6"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/49a0c1e1-c139-4242-ba35-5df4aa1fc102"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/ea7b8989-7444-45ec-b554-b8aeaa93b9de"
+        },
+        {
+            "preferredLabel": "Opal One stabbing",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:43+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/980c7002-d051-4b16-bb2b-73445ad07d92"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/9b9c3498-2999-4642-833c-90aeddddbfa8"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/d2f7e07c-2d0f-4c92-b155-ee9af74daeb1"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/340748d4-2b8a-413c-8bad-fa3602dc92e0"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/7ea810b5-6a7e-4c5d-8dca-44c1cd0a5c1f"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/ad8e165f-8a29-4661-98c1-24af9afe3402"
+        },
+        {
+            "preferredLabel": "Stabbing of Marcus Wye in Druids Heath",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:41+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/0fdde181-a349-468b-854f-0415f67bd4dc"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/b6c86f14-f4ae-4e42-b98f-a78b6072c2a2"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/99e11e73-eb28-428f-b69e-643513d6b318"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/68260fbf-2b99-4ae6-8ade-d2aea694f92c"
+        },
+        {
+            "preferredLabel": "Stabbing of Shaspal Singh Bahra",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:44+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/78554a16-46e5-4398-937c-0c0cf19b3168"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/fb62e2ec-0d16-4d22-9363-2f6b1aad19f5"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/78787ff6-8f53-4ba1-97bf-d2a824204d16"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/e7417801-ca70-4146-997b-40987d931ba8"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/1c9baf43-3dcc-4af3-93c0-59eb362c2954"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/76d9c0cc-fbf7-4458-95fa-19f64807f6aa"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/7f101c6a-3be5-4f9d-8b6c-e6f7a249ecc5"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/db72e0c7-2eff-4f9f-be0e-c3a75828e609"
+        },
+        {
+            "preferredLabel": "Stabbing at Bournville College",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:25:51+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/681e7e23-9069-4f0f-afb3-2e02a7b0b714"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/22d0d55b-bb8b-4ec5-a59e-73279247a001"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/f0f68e45-7ca2-47f1-ae3b-c82140bb54e3"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/1d79c2ae-639e-4543-9562-5ef112b5a997"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/52d7080c-877c-460a-952f-a5577c77625a"
+        },
+        {
+            "preferredLabel": "Christina Edkins memorial garden",
+            "@type": "Storyline",
+            "dateCreated": "2013-10-17T12:32:01+01:00",
+            "hasSlot": {
+                "@set": [
+                    {
+                        "@id": "http://www.bbc.co.uk/things/2535f927-bdf8-4185-ae32-ffdecbfe3eab"
+                    },
+                    {
+                        "@id": "http://www.bbc.co.uk/things/1bc4f3bb-eeb0-4a39-a9ca-69b149b1509a"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/a20740bd-e091-4922-b298-e6a4716e6538"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/b5bf13bb-48b1-492b-98ad-9db86093ab6c"
+            },
+            "@id": "http://www.bbc.co.uk/things/8fad7673-6e90-40a4-a4ce-d3e148aedf98"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f7827335-c8af-4b74-a6cc-ed73089448ca"
+            },
+            "@id": "http://www.bbc.co.uk/things/ab666cd2-e45e-4bdb-b99c-42fccbb94009"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8605ed1d-fb8b-4fb6-9e6f-664a49448573"
+            },
+            "@id": "http://www.bbc.co.uk/things/177d91c1-72a8-49f7-a722-6238d4c68b97"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/c88aa5f3-f07f-4778-9ce4-b624a2f05d32"
+            },
+            "@id": "http://www.bbc.co.uk/things/e77631bb-d9b2-40a3-a24e-3981763663c4"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8f9d1437-209c-4ce1-8937-35c652ecbe5b"
+            },
+            "@id": "http://www.bbc.co.uk/things/2889ddd9-f1a6-42a6-8071-50d730a684cc"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f6917c15-c993-43c8-925a-c133a61e7b60"
+            },
+            "@id": "http://www.bbc.co.uk/things/6473d997-5f74-45ce-97a6-bb5f78dd07a4"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/3ada41d9-fbd6-4d23-97f9-e8094c110e85"
+            },
+            "@id": "http://www.bbc.co.uk/things/752fa9ea-9929-41ef-94c6-ab8059342d92"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/7559dcf1-0469-4e7d-8dce-0bd82159c25b"
+            },
+            "@id": "http://www.bbc.co.uk/things/15270637-7795-40a0-b426-ee25a6f4a5e6"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/68260fbf-2b99-4ae6-8ade-d2aea694f92c"
+            },
+            "@id": "http://www.bbc.co.uk/things/899398f3-983b-4535-9601-cb1de3391ea3"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/42010194-e355-4c28-a7f0-7744204c3103"
+            },
+            "@id": "http://www.bbc.co.uk/things/d453823f-a04d-4114-be61-466fc2db8ec6"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/71a26989-3fc8-4550-ac5c-1f6dad94c1ac"
+            },
+            "@id": "http://www.bbc.co.uk/things/7adc7241-2b4f-4b26-a799-85bcbb391d68"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/1210e85f-1a05-4913-a3cf-99726605c9ce"
+            },
+            "@id": "http://www.bbc.co.uk/things/b4eb8371-3410-49da-8dbe-abe4bbb9040f"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/ad8e165f-8a29-4661-98c1-24af9afe3402"
+            },
+            "@id": "http://www.bbc.co.uk/things/5657d03c-abbb-4710-a7bd-90ca6fef04a6"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/71a33205-a1b0-45ae-b199-cf8ba9c0eb97"
+            },
+            "@id": "http://www.bbc.co.uk/things/7477fb9b-ca58-4f83-b947-ce38b7c86a78"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/86803fad-0c61-4a13-a66c-1150a9fb3ba9"
+            },
+            "@id": "http://www.bbc.co.uk/things/934719e0-9290-4e40-acba-2a4b2694934a"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/d258e208-a130-4e72-9176-0d4ba930594b"
+            },
+            "@id": "http://www.bbc.co.uk/things/8198c7be-2e2c-4ba5-8b0a-f7e3e69395bc"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/2dd76e72-c206-4c3d-8386-b71b78746db9"
+            },
+            "@id": "http://www.bbc.co.uk/things/5ee4cb5b-8d69-4db5-be32-dd2725bb202e"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/87efb8e4-6681-4602-81a3-d8412d30cb27"
+            },
+            "@id": "http://www.bbc.co.uk/things/45c7174c-e2e6-4e9f-a526-57226445c395"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/db72e0c7-2eff-4f9f-be0e-c3a75828e609"
+            },
+            "@id": "http://www.bbc.co.uk/things/48495e79-c49e-4350-ab1d-45edfcc43359"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8a01e8b4-e49a-4335-8017-2eeeafb0266d"
+            },
+            "@id": "http://www.bbc.co.uk/things/278b784a-6fea-4cc3-8044-095abb2c018e"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/ea7b8989-7444-45ec-b554-b8aeaa93b9de"
+            },
+            "@id": "http://www.bbc.co.uk/things/4e8c0dbe-8dfa-4979-acbc-669daee45c6e"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/562efea8-c755-470e-b70b-2a6f6a227d1d"
+            },
+            "@id": "http://www.bbc.co.uk/things/b1f4f96c-d29c-495e-8c4e-724d6f02a7aa"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/52d7080c-877c-460a-952f-a5577c77625a"
+            },
+            "@id": "http://www.bbc.co.uk/things/4b97dbfe-52dc-4de2-9596-b0a57174df23"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/82dfee17-8011-455a-9a9d-b6bcf40fb3c7"
+            },
+            "@id": "http://www.bbc.co.uk/things/197dc2f7-a983-45bc-ac43-49863eafc8b3"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/9ee9d2af-96d2-4d8e-9378-00687410dc80"
+            },
+            "@id": "http://www.bbc.co.uk/things/e3ea9bd9-9733-4c8f-bb7d-c714e46da283"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/66ff1939-fa59-4284-b502-193f2fa1c498"
+            },
+            "@id": "http://www.bbc.co.uk/things/1188e4b3-02ac-42ab-8db6-02a48f5bac64"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/146e063e-c334-4c4e-aadf-6a2460f82356"
+            },
+            "@id": "http://www.bbc.co.uk/things/a7c823c2-1e29-46cb-9c57-e3a67e3547a6"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/92656f66-ffa8-4436-827e-c56c429f7974"
+            },
+            "@id": "http://www.bbc.co.uk/things/4b74f862-672d-4360-9768-752626adc99a"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8d865581-d946-4544-8aaf-1e84c00b0e78"
+            },
+            "@id": "http://www.bbc.co.uk/things/3ae92075-45df-4879-affe-5950f887e9fc"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/6fb089a6-d095-4b19-9b49-d378fc392fe3"
+            },
+            "@id": "http://www.bbc.co.uk/things/68b8817b-afcc-444a-a744-886180b442b8"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/80c3e409-f192-44f4-a497-549ba02d4b17"
+            },
+            "@id": "http://www.bbc.co.uk/things/bff24391-3732-4c39-bf49-00647351a161"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/cf83d939-1a05-4773-85a0-290f6504ec9c"
+            },
+            "@id": "http://www.bbc.co.uk/things/637cc54c-73dc-4731-b8f6-93911627a7dd"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/b94d07ed-1a3a-4d16-83fd-e9f5930077cc"
+            },
+            "@id": "http://www.bbc.co.uk/things/57beda9e-cf85-4541-a952-b3575a3c966f"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/6538c77c-a578-4e9b-ae09-2ef680375c1f"
+            },
+            "@id": "http://www.bbc.co.uk/things/78554a16-46e5-4398-937c-0c0cf19b3168"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/00a03e14-f2ac-405a-8a7b-6d571ae50612"
+            },
+            "@id": "http://www.bbc.co.uk/things/fb62e2ec-0d16-4d22-9363-2f6b1aad19f5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/0aec7eec-25e7-48ee-bc27-25729e1cb815"
+            },
+            "@id": "http://www.bbc.co.uk/things/78787ff6-8f53-4ba1-97bf-d2a824204d16"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/16c45879-97a9-430e-8fb0-1a158d347542"
+            },
+            "@id": "http://www.bbc.co.uk/things/e7417801-ca70-4146-997b-40987d931ba8"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/e5008662-8df5-4fdd-a2a6-498538a2ab18"
+            },
+            "@id": "http://www.bbc.co.uk/things/1c9baf43-3dcc-4af3-93c0-59eb362c2954"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/1e15fba6-70af-46b7-9b07-40c3b3342fd4"
+            },
+            "@id": "http://www.bbc.co.uk/things/76d9c0cc-fbf7-4458-95fa-19f64807f6aa"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/9345d724-637f-44b4-80bb-c368f819a1d2"
+            },
+            "@id": "http://www.bbc.co.uk/things/7f101c6a-3be5-4f9d-8b6c-e6f7a249ecc5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/c301d358-df3d-48d2-80be-7025b0df8906"
+            },
+            "@id": "http://www.bbc.co.uk/things/f6f2c3e2-2433-4066-aed7-71008e066e7d"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4f1b0549-9e51-4221-98d4-58817f9897dd"
+            },
+            "@id": "http://www.bbc.co.uk/things/c36aed1c-9341-46ce-9c3c-65fb8907f807"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/42b228da-94ff-4bdb-898c-3460f790ee25"
+            },
+            "@id": "http://www.bbc.co.uk/things/10b47632-acae-433e-b725-33d0d9042490"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/5fded5ca-c69e-4d16-b184-88715ed02982"
+            },
+            "@id": "http://www.bbc.co.uk/things/3e37dc13-accb-4afe-b885-b223551f999c"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f1ac7096-552b-4823-8ff4-37e1da108f83"
+            },
+            "@id": "http://www.bbc.co.uk/things/ea9d0fff-1472-44b7-a001-4632cb71576a"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8985897d-b3bd-4470-b4e5-de84a2e8b71b"
+            },
+            "@id": "http://www.bbc.co.uk/things/3b414461-ba5e-440d-a86e-83878773df3d"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/c9f5515a-6439-436b-bd54-090f3630b0aa"
+            },
+            "@id": "http://www.bbc.co.uk/things/87ebe086-4037-4006-9f3a-1ad8b549f0f2"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/9ec832ac-af50-4541-8cd5-c7bec95b6470"
+            },
+            "@id": "http://www.bbc.co.uk/things/91fa5b82-b5af-44f8-bb8a-5079e2c116a3"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8eeb8539-737d-418a-811b-f74b58aaaa7a"
+            },
+            "@id": "http://www.bbc.co.uk/things/d1652056-3678-41b8-8d19-b46d2a3718c0"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/3bd4e77f-a89c-47c4-aba7-30e1f2f6ff26"
+            },
+            "@id": "http://www.bbc.co.uk/things/e0ba5263-bc2b-4c24-a658-55df1f0e440a"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/eadfaec6-408b-4703-9840-60ceaa8b5682"
+            },
+            "@id": "http://www.bbc.co.uk/things/681e7e23-9069-4f0f-afb3-2e02a7b0b714"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4b94dfbb-f103-4570-b6ef-4a2f870f23e3"
+            },
+            "@id": "http://www.bbc.co.uk/things/22d0d55b-bb8b-4ec5-a59e-73279247a001"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/50c3083e-13e9-4936-bbbb-c832736daf80"
+            },
+            "@id": "http://www.bbc.co.uk/things/f0f68e45-7ca2-47f1-ae3b-c82140bb54e3"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f33775c4-336a-4142-92f2-4123242c9f93"
+            },
+            "@id": "http://www.bbc.co.uk/things/1d79c2ae-639e-4543-9562-5ef112b5a997"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/58a39b1f-a84b-43ad-ab16-f41c29fbbee7"
+            },
+            "@id": "http://www.bbc.co.uk/things/3d1e6c28-a683-4b88-bcd6-d7fe7e909c4b"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/c262fe74-da3a-4f7e-8d53-b87bd79d7035"
+            },
+            "@id": "http://www.bbc.co.uk/things/49c1fb9c-0094-4411-a7ee-778a9aa0a8ea"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/3d80a6a4-e6a1-4c29-b668-44eafdd7ee7c"
+            },
+            "@id": "http://www.bbc.co.uk/things/e3021c8f-235d-4fdd-b4c2-05d233262340"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f9c2e68e-72a0-4037-ab8b-3fd964b28efe"
+            },
+            "@id": "http://www.bbc.co.uk/things/f88f03d2-bc68-49a2-8467-8e233c2bc3a4"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/84fa9890-801d-407d-9e9e-0f4ca54ad803"
+            },
+            "@id": "http://www.bbc.co.uk/things/b9fb9328-a237-48e9-b761-8ed1e1a06e8d"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4ee79def-241b-4c27-aab7-e9490e177c62"
+            },
+            "@id": "http://www.bbc.co.uk/things/38e86398-b877-40a4-ba99-3c784f94b8c2"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/79a8ae60-e27d-4747-9091-dbe01a2a952c"
+            },
+            "@id": "http://www.bbc.co.uk/things/f006df81-91c7-4d0a-95c1-e2fdce8488aa"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/85e5e3fe-f737-4392-a5d6-b7ff21e89665"
+            },
+            "@id": "http://www.bbc.co.uk/things/693bdb8b-d9ea-4678-aa55-fd88e07776ce"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/d2cb58bb-a565-4bce-8afc-30383bb8ed3b"
+            },
+            "@id": "http://www.bbc.co.uk/things/2d5729da-8952-462b-819b-47a386a398da"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/1246c5a8-58da-4047-859a-0f759dd6618e"
+            },
+            "@id": "http://www.bbc.co.uk/things/f978b614-11a6-4ae3-9f7d-fb3292b9eaf1"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/95941bbb-74c1-400a-a875-2521c8813c15"
+            },
+            "@id": "http://www.bbc.co.uk/things/9fb2993d-ef8a-4fe2-bde4-2ec528f5f27d"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/b5bf13bb-48b1-492b-98ad-9db86093ab6c"
+            },
+            "@id": "http://www.bbc.co.uk/things/f87beb12-9e58-4fbb-9277-50cf123a5198"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/a9e508ab-df90-4255-810a-3cc2dd7a9dc7"
+            },
+            "@id": "http://www.bbc.co.uk/things/76fb81ad-3e38-44dd-842c-008d4b39a60b"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/64107ffa-51b7-4c69-9785-0288ccd870a3"
+            },
+            "@id": "http://www.bbc.co.uk/things/e8ca2ea5-e0c8-4bf2-9960-e1943a1c9be8"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/9934d21a-14ae-435e-af28-90dd193f17fb"
+            },
+            "@id": "http://www.bbc.co.uk/things/b324e5a1-228f-4cfa-97f2-7571b3c53cb5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/936a80ee-459b-4dbf-ba4c-a5ee256f0eda"
+            },
+            "@id": "http://www.bbc.co.uk/things/2481e532-080a-4752-86f7-61518049e8bf"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/ed7fa031-5619-4b4b-9fc1-053d0b6528d4"
+            },
+            "@id": "http://www.bbc.co.uk/things/0a841dec-370a-42af-8903-a024e34745c5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4738dcc8-9460-4a64-8698-4f364e634147"
+            },
+            "@id": "http://www.bbc.co.uk/things/2d935691-0835-42a3-bf7a-b21caa22bfec"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f6917c15-c993-43c8-925a-c133a61e7b60"
+            },
+            "@id": "http://www.bbc.co.uk/things/b84f8627-17ef-480b-b75e-e2b9a1a8a3c2"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/6c4e2bfe-a592-4da9-acb2-7f6e3787d057"
+            },
+            "@id": "http://www.bbc.co.uk/things/8036cc23-6a82-45b6-92e0-21b5a5acaaec"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8fa7c92a-4d31-4aec-94e2-0f886b97898e"
+            },
+            "@id": "http://www.bbc.co.uk/things/bbe898c5-59f9-4830-aa89-88cfa1a41200"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/fb589cf1-d506-4eae-96af-b2daa1fc319d"
+            },
+            "@id": "http://www.bbc.co.uk/things/56973bbd-eb92-4dfe-ba5b-032494b7dbfa"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/68e9c2f2-ef3a-458b-abaa-a1bdbb862e7e"
+            },
+            "@id": "http://www.bbc.co.uk/things/e7b377fb-e871-4b5d-94e6-b90f132d38dc"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/1db49785-b1c3-468e-ac5e-771598f6133c"
+            },
+            "@id": "http://www.bbc.co.uk/things/b54d6d2b-660a-4c4e-a480-716a2be89551"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/051f9099-8c95-4629-ac86-0e7d2128e7bd"
+            },
+            "@id": "http://www.bbc.co.uk/things/cbced93f-80a9-46ef-8770-08d80e520592"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/e9b876c7-1144-4a1f-ae8b-c049ec8c5ae3"
+            },
+            "@id": "http://www.bbc.co.uk/things/aff8c7cf-9245-48d6-b3bd-d461607b9219"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/2ece0628-04a4-41b8-9fa9-f9d91d765f86"
+            },
+            "@id": "http://www.bbc.co.uk/things/bd69c3b1-45f9-49c8-8d5a-1125d61939c5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/a20740bd-e091-4922-b298-e6a4716e6538"
+            },
+            "@id": "http://www.bbc.co.uk/things/e85f5acd-c09a-4ddb-aaf1-8cc0cd007dbc"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/70855372-4364-4fdd-9a15-17489ae963c1"
+            },
+            "@id": "http://www.bbc.co.uk/things/782b383d-08b9-43c9-b4f5-31e808f0c53f"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/5a33a72e-fac2-4502-8091-de2d7e7155f0"
+            },
+            "@id": "http://www.bbc.co.uk/things/42637c2e-04e8-4e47-948d-1a592d4d2b33"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/e4710627-2df9-4bcb-87c1-65ba94060192"
+            },
+            "@id": "http://www.bbc.co.uk/things/d51cd941-0599-4191-a7c9-033b393a5e6e"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/75c5bc2a-4591-42d0-9eec-41af17852a89"
+            },
+            "@id": "http://www.bbc.co.uk/things/e669c7f4-fbbd-4c9e-bfc8-804461892bf8"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/64b93a92-e337-4c89-99ac-92a7843d8d40"
+            },
+            "@id": "http://www.bbc.co.uk/things/4d493b8c-ee8d-42c4-b4ff-cb49ac26f5e9"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/83d97e7d-6df9-41fa-ab68-29e3131cc8eb"
+            },
+            "@id": "http://www.bbc.co.uk/things/b4d7012f-f3ff-450e-8a7d-8b0da66c85fd"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/1b7f861d-7e6f-4cec-8523-1d9c7179f83f"
+            },
+            "@id": "http://www.bbc.co.uk/things/7d66ecc5-c7b1-4be7-a111-3272cd5570e7"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/963288bc-c366-4bce-9ab8-71db33fa9d5c"
+            },
+            "@id": "http://www.bbc.co.uk/things/c919ee76-d093-4dac-a2b3-98bd8e88ad6c"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f42f8811-58ef-45fa-8cb3-a05d24623c59"
+            },
+            "@id": "http://www.bbc.co.uk/things/263a0a32-8109-4830-b545-95ef618523aa"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/7f95933a-493a-4cba-9b70-666c62c70672"
+            },
+            "@id": "http://www.bbc.co.uk/things/073d9390-4656-4eaf-90c6-6b8f3b089e0e"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4a7275d3-b5dd-4f05-b8cc-ce8bb53e72b1"
+            },
+            "@id": "http://www.bbc.co.uk/things/ebf60bfa-216d-463d-aeb4-45a279c77c82"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/42072313-f7bc-4726-81af-fbe909f7cf80"
+            },
+            "@id": "http://www.bbc.co.uk/things/a4beddba-d2bd-4559-b340-321c79875809"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/2791105a-3a8d-4660-9fc5-72d223e6af03"
+            },
+            "@id": "http://www.bbc.co.uk/things/5dc5fb13-24fe-4b33-9e76-9fb997fd59e6"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f5a5ade3-5d53-48cb-86bf-fb581693983f"
+            },
+            "@id": "http://www.bbc.co.uk/things/7b9f4987-7bd5-4b5d-b087-963acf07816a"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/908f6abe-4a5b-4dea-8d5a-403a12f4a069"
+            },
+            "@id": "http://www.bbc.co.uk/things/5357db65-0d97-4aa4-8462-9a7fefd7f303"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/f5e25430-74fc-4e50-977c-4c28367c6313"
+            },
+            "@id": "http://www.bbc.co.uk/things/91175ef2-0a21-4e41-b361-291976a85a57"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/3534190c-0379-4a17-9a50-368f10d883d8"
+            },
+            "@id": "http://www.bbc.co.uk/things/f3aa17a9-21b6-4a34-bbfc-1a0a8b0e9fae"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/fb33a019-98a9-479e-9576-2f711bd57d53"
+            },
+            "@id": "http://www.bbc.co.uk/things/ff32cdd6-3397-4a6d-bfa9-a373a75ccd97"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/28a5011a-c9c0-4c7f-8f5b-897a178a9aa7"
+            },
+            "@id": "http://www.bbc.co.uk/things/43fe407f-ed6d-45ce-a6ca-1e37898c50dc"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/92e482c7-2f57-4b4a-93d9-c2927401d552"
+            },
+            "@id": "http://www.bbc.co.uk/things/adb44941-fb63-4698-9e45-697934ddfefe"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4094dc17-35ca-4e6a-b28e-3036a9d299d3"
+            },
+            "@id": "http://www.bbc.co.uk/things/54781463-9409-49e6-bd66-5f4e3b283461"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/0ff88584-bdce-4e5b-81ed-a3a777ddadb4"
+            },
+            "@id": "http://www.bbc.co.uk/things/6f92e50a-b030-4a4a-975d-b7ff40714e35"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/2e2d0c89-0ea2-4d9e-a0f2-b0ce9cb38f83"
+            },
+            "@id": "http://www.bbc.co.uk/things/382370ba-680d-4789-9d0c-ee8905fba637"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/e9624dd0-fa5a-4275-8f32-b6cbdf9b8176"
+            },
+            "@id": "http://www.bbc.co.uk/things/980c7002-d051-4b16-bb2b-73445ad07d92"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/339be229-bf4d-40e4-a811-859ace172176"
+            },
+            "@id": "http://www.bbc.co.uk/things/9b9c3498-2999-4642-833c-90aeddddbfa8"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/628f5278-4861-471b-a775-59a9a9a331f8"
+            },
+            "@id": "http://www.bbc.co.uk/things/d2f7e07c-2d0f-4c92-b155-ee9af74daeb1"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/1b5cc4dc-7dc2-41ed-98a9-bea495bc24d5"
+            },
+            "@id": "http://www.bbc.co.uk/things/340748d4-2b8a-413c-8bad-fa3602dc92e0"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8319fb5c-4bb4-4e4a-8324-369a82738826"
+            },
+            "@id": "http://www.bbc.co.uk/things/7ea810b5-6a7e-4c5d-8dca-44c1cd0a5c1f"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/1f61b530-a530-4a7d-97e8-336a8ebc0f6a"
+            },
+            "@id": "http://www.bbc.co.uk/things/a1606d28-15bc-4455-b68d-b205b9b71a02"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/be6263a4-969a-471e-a024-5b22aa0c8586"
+            },
+            "@id": "http://www.bbc.co.uk/things/c80012bd-8762-4ede-be70-ee893c0bee7a"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/3143e74e-c7fb-44fc-ab0a-ba5f5f89bb31"
+            },
+            "@id": "http://www.bbc.co.uk/things/e4bef559-a402-4756-b106-ab00d496f5ae"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/601e4a88-0acb-4aff-8681-583e33c0fd17"
+            },
+            "@id": "http://www.bbc.co.uk/things/fe25705f-5c6f-4118-9480-74353aece35d"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/8e5b346d-2656-4901-ae09-73f1f9861355"
+            },
+            "@id": "http://www.bbc.co.uk/things/66bd25be-4171-49b0-9702-6bf908cfc9a0"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/b5bf13bb-48b1-492b-98ad-9db86093ab6c"
+            },
+            "@id": "http://www.bbc.co.uk/things/df65d5df-7e97-4889-8458-42c32ad0b7de"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/411a749f-7744-45d1-a94f-e5bb5bbc1c94"
+            },
+            "@id": "http://www.bbc.co.uk/things/99c17347-9ddf-4de5-94de-e07e6cd11a96"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/e2dab83d-9db7-46df-a662-e2dadb370a72"
+            },
+            "@id": "http://www.bbc.co.uk/things/85a074ca-18bd-448f-b802-c10921d669f5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4ee79def-241b-4c27-aab7-e9490e177c62"
+            },
+            "@id": "http://www.bbc.co.uk/things/7cb9b432-8b42-49a4-9d92-2ce535741cf3"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/0c7b5caf-b9f5-4d2e-b9e9-b9c3eca4879c"
+            },
+            "@id": "http://www.bbc.co.uk/things/47dad3f6-92a5-421e-8676-cb06b48528e6"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/be382ddc-a39d-406f-bb5d-e9035d75f0f6"
+            },
+            "@id": "http://www.bbc.co.uk/things/fd35dc34-9ed9-4915-8667-0ace8870d845"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/a468fb63-dd15-4145-a4ea-04d227a04442"
+            },
+            "@id": "http://www.bbc.co.uk/things/9ecdf7ff-ee49-4ac3-9180-496efa6686b5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/bbfaf5a3-1bae-465e-8f7e-0a5db886845a"
+            },
+            "@id": "http://www.bbc.co.uk/things/5382cf69-19b1-4e60-9cc7-534cce6d8a51"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/ae96009c-2709-46bc-9e4c-20b1b6bc2872"
+            },
+            "@id": "http://www.bbc.co.uk/things/073039aa-54f1-44dd-ae7b-ceffb53672d8"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/c4e7edd3-005f-42ba-bc64-a6003cc8664c"
+            },
+            "@id": "http://www.bbc.co.uk/things/40078c77-df42-4fb5-afbc-2e333a2af278"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/2f2f8605-3749-40e2-bd72-46c6eaaf1509"
+            },
+            "@id": "http://www.bbc.co.uk/things/e51c8c7f-a8ce-4a1f-8fd7-079e47101032"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/80cf6644-9ef0-46f1-9dc5-58a1f10284a1"
+            },
+            "@id": "http://www.bbc.co.uk/things/9eada8bc-adc2-45b0-a702-fdfca2cf94ff"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/333d697c-bdf6-4e1f-a430-ea3c5f3c5057"
+            },
+            "@id": "http://www.bbc.co.uk/things/feb8a765-c144-4d63-a819-3c3a0e00c664"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/3237a017-b097-4481-9d37-db606584cae3"
+            },
+            "@id": "http://www.bbc.co.uk/things/284de95f-7977-46ff-a06b-fa629fa1fa21"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/68c0ca42-3044-4bd2-a5ac-b46d191bd90b"
+            },
+            "@id": "http://www.bbc.co.uk/things/6c143650-8b0a-4450-835f-3802316621b4"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/153ef027-1d10-441b-b849-27a67eacefe2"
+            },
+            "@id": "http://www.bbc.co.uk/things/127c7443-e28a-4a57-bc05-eb620bebaa83"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/65a18741-3622-4d43-8765-9c7972660bbe"
+            },
+            "@id": "http://www.bbc.co.uk/things/c9942bb6-7305-445e-91e9-a9d514f34683"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/613f0f0d-ac94-4a22-b4a7-e16e642f8161"
+            },
+            "@id": "http://www.bbc.co.uk/things/12adc46a-68e7-4ffb-8266-d9d7041bfec6"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/a83448cd-2f14-40d4-8e3d-7030bf90e70f"
+            },
+            "@id": "http://www.bbc.co.uk/things/49a0c1e1-c139-4242-ba35-5df4aa1fc102"
+        },
+{
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/65268652-c3a3-4544-93e7-43e3e7a74412"
+            },
+            "@id": "http://www.bbc.co.uk/things/2d965112-5a73-4df6-a8dc-a4571e7998ff"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/837f8e9f-7291-4fe5-8f22-350b3bf6e5fe"
+            },
+            "@id": "http://www.bbc.co.uk/things/65e0850b-567b-4945-a43a-4188db258d76"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/aa1b66a7-9428-45cc-87e2-fb68b573b3ac"
+            },
+            "@id": "http://www.bbc.co.uk/things/6aef286a-8ca4-4fc3-b679-8195c12eb6a5"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/846c948e-8c83-4236-8bcf-4b07ca81b42d"
+            },
+            "@id": "http://www.bbc.co.uk/things/61e7ea15-1744-4e66-abb7-60576b3566de"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/3b95fc9f-8da5-4515-a756-c0b9ca183f14"
+            },
+            "@id": "http://www.bbc.co.uk/things/e21c120d-8d4f-46e3-89d4-95660716b4a4"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/e5dfb718-0bd8-456e-be30-633a8125fa57"
+            },
+            "@id": "http://www.bbc.co.uk/things/8f9f26b4-36ef-4761-9fb9-f3dc3d25c2ad"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/34b8f0ca-a5a7-4525-a176-8d97d6cd914c"
+            },
+            "@id": "http://www.bbc.co.uk/things/0fdde181-a349-468b-854f-0415f67bd4dc"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/d5c5dbe5-c63d-45b9-a453-074804a159e3"
+            },
+            "@id": "http://www.bbc.co.uk/things/b6c86f14-f4ae-4e42-b98f-a78b6072c2a2"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/4f3bd647-c31b-41ab-8726-556671857a53"
+            },
+            "@id": "http://www.bbc.co.uk/things/99e11e73-eb28-428f-b69e-643513d6b318"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/a36388a4-0736-4097-bb32-c046a16d5c40"
+            },
+            "@id": "http://www.bbc.co.uk/things/2535f927-bdf8-4185-ae32-ffdecbfe3eab"
+        },
+        {
+            "@type": "StorylineSlot",
+            "contains": {
+                "@id": "http://www.bbc.co.uk/things/c540aad4-c7b2-4a67-baf7-54e9bd02dfd1"
+            },
+            "@id": "http://www.bbc.co.uk/things/1bc4f3bb-eeb0-4a39-a9ca-69b149b1509a"
+        },
+        {
+            "preferredLabel": "Man stabbed in fight on Lionel Street",
+            "@type": "Event",
+            "eventStartDate": "2012-09-27T05:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/71a26989-3fc8-4550-ac5c-1f6dad94c1ac"
+        },
+        {
+            "preferredLabel": "Two stabbed at Bristol Road bus stop in Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2012-09-26T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/9ee9d2af-96d2-4d8e-9378-00687410dc80"
+        },
+        {
+            "preferredLabel": "Boy stabbed in stomach in Erdington",
+            "@type": "Event",
+            "eventStartDate": "2012-12-06T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/d258e208-a130-4e72-9176-0d4ba930594b"
+        },
+        {
+            "preferredLabel": "West Midlands MP James Morris calls for tougher measures for knife possession",
+            "@type": "Event",
+            "eventStartDate": "2013-03-13T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/f6917c15-c993-43c8-925a-c133a61e7b60"
+        },
+        {
+            "preferredLabel": "West Midlands Police release knife crime data",
+            "@type": "Event",
+            "eventStartDate": "2013-04-09T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Knife crime down by 25% in West Midlands",
+                "description": "Knife crime has dropped by 25% in the West Midlands, according to new police figures.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-04-09T10:43:01Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-22077038"
+            },
+            "@id": "http://www.bbc.co.uk/things/146e063e-c334-4c4e-aadf-6a2460f82356"
+        },
+        {
+            "preferredLabel": "Mother of stabbing victim Kyle Sheehan calls for action on knife crime",
+            "@type": "Event",
+            "eventStartDate": "2013-10-02T00:00:00+01:00",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins: Mother of Kyle Sheehan calls for knife crime action",
+                        "description": "The mother of a teenager killed in a stabbing in Birmingham calls for more action to combat knife crime, on the day a man admits the manslaughter of another teenager in the city.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-02T11:59:00Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24362176"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Kyle Sheehan's mother warns stabbings will continue",
+                        "description": "A mother whose 16-year-old son and his best friend were killed in separate stabbings has called for more action to tackle knife crime.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-02T17:53:41Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24372295"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/b5bf13bb-48b1-492b-98ad-9db86093ab6c"
+        },
+        {
+            "preferredLabel": "Two men injured in shooting and stabbing in Hockley",
+            "@type": "Event",
+            "eventStartDate": "2013-06-24T03:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/2dd76e72-c206-4c3d-8386-b71b78746db9"
+        },
+        {
+            "preferredLabel": "Two men stabbed in Stechford, man and woman arrested",
+            "@type": "Event",
+            "eventStartDate": "2013-08-03T07:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Two held after men hurt in stabbing in Stechford",
+                "description": "Two men are injured in a stabbing in Birmingham leading to the arrest of a man and a woman.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-08-03T13:08:48Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-23561435"
+            },
+            "@id": "http://www.bbc.co.uk/things/86803fad-0c61-4a13-a66c-1150a9fb3ba9"
+        },
+        {
+            "preferredLabel": "Two stabbed men stopped for speeding in Digbeth",
+            "@type": "Event",
+            "eventStartDate": "2013-09-18T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/1210e85f-1a05-4913-a3cf-99726605c9ce"
+        },
+        {
+            "preferredLabel": "Teenager charged with Azim Azam murder is remanded in custody",
+            "@type": "Event",
+            "eventStartDate": "2013-09-19T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Teenager remanded over Azim Azam murder in Birmingham",
+                "description": "A teenager charged with murder after the fatal stabbing of a college student in Birmingham is remanded in custody.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-09-19T13:06:27Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24161505"
+            },
+            "@id": "http://www.bbc.co.uk/things/b94d07ed-1a3a-4d16-83fd-e9f5930077cc"
+        },
+        {
+            "preferredLabel": "Teenager charged with murder of Azim Azam",
+            "@type": "Event",
+            "eventStartDate": "2013-09-18T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/cf83d939-1a05-4773-85a0-290f6504ec9c"
+        },
+        {
+            "preferredLabel": "Teenager arrested over Azim Azam stabbing",
+            "@type": "Event",
+            "eventStartDate": "2013-09-18T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Man held over teenager bus stabbing in Moseley",
+                "description": "A teenager has been arrested over the fatal stabbing of a college student in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-09-17T13:04:51Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24127857"
+            },
+            "@id": "http://www.bbc.co.uk/things/80c3e409-f192-44f4-a497-549ba02d4b17"
+        },
+        {
+            "preferredLabel": "Azim Azam dies in hospital",
+            "@type": "Event",
+            "eventStartDate": "2013-09-16T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/6fb089a6-d095-4b19-9b49-d378fc392fe3"
+        },
+        {
+            "preferredLabel": "Azim Azam found stabbed after getting off bus in Moseley, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-09-16T08:30:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/8d865581-d946-4544-8aaf-1e84c00b0e78"
+        },
+        {
+            "preferredLabel": "Shaspal Singh Bahra stabbed on Thorp Street, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2012-05-12T23:15:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/9345d724-637f-44b4-80bb-c368f819a1d2"
+        },
+        {
+            "preferredLabel": "Man arrested on suspicion of Shaspal Singh Bahra murder",
+            "@type": "Event",
+            "eventStartDate": "2012-05-15T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/e5008662-8df5-4fdd-a2a6-498538a2ab18"
+        },
+        {
+            "preferredLabel": "Second man arrested on suspicion of Shaspal Singh Bahra murder",
+            "@type": "Event",
+            "eventStartDate": "2012-05-17T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/1e15fba6-70af-46b7-9b07-40c3b3342fd4"
+        },
+        {
+            "preferredLabel": "Shaspal Singh Bahra murder suspect bailed",
+            "@type": "Event",
+            "eventStartDate": "2012-05-16T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/16c45879-97a9-430e-8fb0-1a158d347542"
+        },
+        {
+            "preferredLabel": "Man charged with murder of Shaspal Singh Bahra",
+            "@type": "Event",
+            "eventStartDate": "2012-05-18T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/00a03e14-f2ac-405a-8a7b-6d571ae50612"
+        },
+        {
+            "preferredLabel": "Trial of Mohammed Muqtar begins",
+            "@type": "Event",
+            "eventStartDate": "2013-03-04T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/0aec7eec-25e7-48ee-bc27-25729e1cb815"
+        },
+        {
+            "preferredLabel": "Mohammed Muqtar found guilty and jailed",
+            "@type": "Event",
+            "eventStartDate": "2013-03-08T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/6538c77c-a578-4e9b-ae09-2ef680375c1f"
+        },
+        {
+            "preferredLabel": "Big Issue confirm both stabbing victims were Big Issue sellers",
+            "@type": "Event",
+            "eventStartDate": "2013-01-12T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/5fded5ca-c69e-4d16-b184-88715ed02982"
+        },
+        {
+            "preferredLabel": "Memorial service held for stabbed Big Issue sellers",
+            "@type": "Event",
+            "eventStartDate": "2013-01-24T00:00:00+00:00",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Stabbed Big Issue sellers: Birmingham memorial service",
+                        "description": "A memorial service for two Big Issue sellers who were stabbed to death in Birmingham is held at a city centre church.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-01-24T17:12:31Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21183749"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Stabbed Big Issue sellers: Birmingham memorial service",
+                        "description": "A memorial service for two Big Issue sellers who were stabbed to death in Birmingham has been held at a city centre church.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-01-24T21:12:31Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21190874"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/c9f5515a-6439-436b-bd54-090f3630b0aa"
+        },
+        {
+            "preferredLabel": "John Ward remanded in custody by Birmingham Crown Court",
+            "@type": "Event",
+            "eventStartDate": "2013-01-16T00:00:00+00:00",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Birmingham stabbings: Man in court over Big Issue deaths",
+                        "description": "A 23-year-old man charged with murdering two Big Issue sellers who were stabbed in the centre of Birmingham is remanded in custody.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-01-14T19:09:29Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21003318"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Birmingham Big Issue stabbings: John Ward in court",
+                        "description": "A man charged with murdering two Big Issue sellers in Birmingham appears at the city's crown court.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-01-16T11:58:59Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21045520"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/8985897d-b3bd-4470-b4e5-de84a2e8b71b"
+        },
+        {
+            "preferredLabel": "John Ward charged with murder of two Big Issue sellers",
+            "@type": "Event",
+            "eventStartDate": "2013-01-14T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/f1ac7096-552b-4823-8ff4-37e1da108f83"
+        },
+        {
+            "preferredLabel": "Stabbed Big Issue sellers named",
+            "@type": "Event",
+            "eventStartDate": "2013-01-13T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/9ec832ac-af50-4541-8cd5-c7bec95b6470"
+        },
+        {
+            "preferredLabel": "Man arrested on New Street, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-01-11T18:00:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Birmingham stabbings: Plea to 'hundreds' of witnesses",
+                "description": "Hundreds of people may have witnessed two men being stabbed to death in Birmingham city centre, police say.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-01-12T10:08:47Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-20997334"
+            },
+            "@id": "http://www.bbc.co.uk/things/c301d358-df3d-48d2-80be-7025b0df8906"
+        },
+        {
+            "preferredLabel": "Man stabbed in Martineau Place, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-01-11T17:50:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Birmingham stabbings: Plea to 'hundreds' of witnesses",
+                "description": "Hundreds of people may have witnessed two men being stabbed to death in Birmingham city centre, police say.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-01-12T10:08:47Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-20997334"
+            },
+            "@id": "http://www.bbc.co.uk/things/42b228da-94ff-4bdb-898c-3460f790ee25"
+        },
+        {
+            "preferredLabel": "Man stabbed on Union Street, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-01-11T17:50:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Birmingham stabbings: Plea to 'hundreds' of witnesses",
+                "description": "Hundreds of people may have witnessed two men being stabbed to death in Birmingham city centre, police say.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-01-12T10:08:47Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-20997334"
+            },
+            "@id": "http://www.bbc.co.uk/things/4f1b0549-9e51-4221-98d4-58817f9897dd"
+        },
+        {
+            "preferredLabel": "John Ward sentenced for Big Issue seller stabbings",
+            "@type": "Event",
+            "eventStartDate": "2013-10-15T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Big Issue stabbings: Homeless man pleads guilty to manslaughter",
+                "description": "A homeless man pleads guilty to the manslaughter of two Big Issue sellers who were stabbed to death in Birmingham city centre in January.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-10-15T10:20:45Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24534329"
+            },
+            "@id": "http://www.bbc.co.uk/things/3bd4e77f-a89c-47c4-aba7-30e1f2f6ff26"
+        },
+        {
+            "preferredLabel": "John Ward pleads guilty to Big Issue seller manslaughters",
+            "@type": "Event",
+            "eventStartDate": "2013-10-15T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Big Issue stabbings: Homeless man pleads guilty to manslaughter",
+                "description": "A homeless man pleads guilty to the manslaughter of two Big Issue sellers who were stabbed to death in Birmingham city centre in January.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-10-15T10:20:45Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24534329"
+            },
+            "@id": "http://www.bbc.co.uk/things/8eeb8539-737d-418a-811b-f74b58aaaa7a"
+        },
+        {
+            "preferredLabel": "Teenager stabbed outside Bournville College",
+            "@type": "Event",
+            "eventStartDate": "2012-10-19T01:30:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/50c3083e-13e9-4936-bbbb-c832736daf80"
+        },
+        {
+            "preferredLabel": "Man arrested over Bournville College stabbing",
+            "@type": "Event",
+            "eventStartDate": "2012-10-19T01:30:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/f33775c4-336a-4142-92f2-4123242c9f93"
+        },
+        {
+            "preferredLabel": "Valentine Cannings appears in court charged over Bournville College stabbing",
+            "@type": "Event",
+            "eventStartDate": "2012-10-16T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/4b94dfbb-f103-4570-b6ef-4a2f870f23e3"
+        },
+        {
+            "preferredLabel": "Valentine Cannings jailed after admiting Bournville College attack",
+            "@type": "Event",
+            "eventStartDate": "2013-03-04T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/eadfaec6-408b-4703-9840-60ceaa8b5682"
+        },
+        {
+            "preferredLabel": "Third arrest over China Red nightclub stabbings",
+            "@type": "Event",
+            "eventStartDate": "2013-07-13T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/f9c2e68e-72a0-4037-ab8b-3fd964b28efe"
+        },
+        {
+            "preferredLabel": "Kingstanding man charged with possession and wounding over China Red stabbings",
+            "@type": "Event",
+            "eventStartDate": "2013-07-16T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/84fa9890-801d-407d-9e9e-0f4ca54ad803"
+        },
+        {
+            "preferredLabel": "China Red nightclub stabbing suspects bailed",
+            "@type": "Event",
+            "eventStartDate": "2013-06-24T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/3d80a6a4-e6a1-4c29-b668-44eafdd7ee7c"
+        },
+        {
+            "preferredLabel": "Three stabbed at China Red nightclub, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-06-22T04:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/58a39b1f-a84b-43ad-ab16-f41c29fbbee7"
+        },
+        {
+            "preferredLabel": "Two arrests in connection with China Red nightclub stabbings",
+            "@type": "Event",
+            "eventStartDate": "2013-06-23T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/c262fe74-da3a-4f7e-8d53-b87bd79d7035"
+        },
+        {
+            "preferredLabel": "Armani Deniro Mitchell remanded in custody over Depzman stabbing",
+            "@type": "Event",
+            "eventStartDate": "2013-09-24T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/a9e508ab-df90-4255-810a-3cc2dd7a9dc7"
+        },
+        {
+            "preferredLabel": "Second arrested Depzman murder suspect bailed",
+            "@type": "Event",
+            "eventStartDate": "2013-09-23T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/95941bbb-74c1-400a-a875-2521c8813c15"
+        },
+        {
+            "preferredLabel": "Second Depzman murder suspect arrested",
+            "@type": "Event",
+            "eventStartDate": "2013-09-29T02:20:00+01:00",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Joshua Ribera: Second arrest in murder investigation",
+                        "description": "A second man is arrested on suspicion of the murder of an 18-year-old rapper in Birmingham on Friday night.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-09-22T14:51:15Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-24196927"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Joshua Ribera: Police given more time to question man over murder",
+                        "description": "Police are given more time to speak to a man arrested in connection with the murder of an 18-year-old rapper in Birmingham.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-09-23T11:58:55Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24205242"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/85e5e3fe-f737-4392-a5d6-b7ff21e89665"
+        },
+        {
+            "preferredLabel": "Wretch 32, Frisco, DJ MistaJam and JayKae pay tribute to Depzman",
+            "@type": "Event",
+            "eventStartDate": "2013-09-23T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/d2cb58bb-a565-4bce-8afc-30383bb8ed3b"
+        },
+        {
+            "preferredLabel": "Armani Mitchell charged with Depzman murder",
+            "@type": "Event",
+            "eventStartDate": "2013-09-23T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Joshua Ribera: Man charged over rapper stab death",
+                "description": "An 18-year-old man is charged with the murder of a rapper who was stabbed to death in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-09-23T21:34:58Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-24215558"
+            },
+            "@id": "http://www.bbc.co.uk/things/1246c5a8-58da-4047-859a-0f759dd6618e"
+        },
+        {
+            "preferredLabel": "Man arrested on suspicion of Depzman murder",
+            "@type": "Event",
+            "eventStartDate": "2013-09-21T11:45:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/79a8ae60-e27d-4747-9091-dbe01a2a952c"
+        },
+        {
+            "preferredLabel": "Rapper Depzman stabbed at stabbing victim's tribute night",
+            "@type": "Event",
+            "eventStartDate": "2013-09-19T11:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Selly Oak stabbing: Man arrested on suspicion of murder",
+                "description": "Police arrest a man after an 18-year-old is stabbed to death during a night out in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-09-21T11:50:59Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24186020"
+            },
+            "@id": "http://www.bbc.co.uk/things/4ee79def-241b-4c27-aab7-e9490e177c62"
+        },
+        {
+            "preferredLabel": "Funeral held for rapper Depzman",
+            "@type": "Event",
+            "eventStartDate": "2013-10-16T00:00:00+01:00",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Rapper Joshua Ribera: Funeral at Bullring church",
+                        "description": "The funeral of a Birmingham rapper stabbed after attending a fundraising event for another stab victim takes place later.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-15T16:58:25Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24537673"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/BirminghamMail",
+                        "title": "Pictures: Hundreds gather at city church for funeral of stabbing victim Joshua Ribera",
+                        "description": "The young Birmingham rapper died after being stabbed at a memorial event for a friend",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-16T12:55:10Z",
+                        "@id": "http://www.birminghammail.co.uk/news/local-news/joshua-ribera-funeral-hundreds-gather-6193987"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/BirminghamMail",
+                        "title": "Funeral of Joshua Ribera to take place today",
+                        "description": "18-year-old died after being stabbed at a memorial event for a friend",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-16T07:12:26Z",
+                        "@id": "http://www.birminghammail.co.uk/news/local-news/joshua-ribera-stabbing-funeral-birmingham-6191678"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/64107ffa-51b7-4c69-9785-0288ccd870a3"
+        },
+        {
+            "preferredLabel": "Depzman inquest opens",
+            "@type": "Event",
+            "eventStartDate": "2013-10-02T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/9934d21a-14ae-435e-af28-90dd193f17fb"
+        },
+        {
+            "preferredLabel": "Spar stabbing suspect charged with attempted murder and wounding",
+            "@type": "Event",
+            "eventStartDate": "2013-04-05T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/4738dcc8-9460-4a64-8698-4f364e634147"
+        },
+        {
+            "preferredLabel": "Teenager arrested on suspicion of attempted murders at Spar",
+            "@type": "Event",
+            "eventStartDate": "2013-04-05T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/ed7fa031-5619-4b4b-9fc1-053d0b6528d4"
+        },
+        {
+            "preferredLabel": "Two men stabbed in Edgbaston Spar",
+            "@type": "Event",
+            "eventStartDate": "2013-04-11T11:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/936a80ee-459b-4dbf-ba4c-a5ee256f0eda"
+        },
+        {
+            "preferredLabel": "Man arrested on suspicion of Christina Edkins' murder",
+            "@type": "Event",
+            "eventStartDate": "2013-03-07T12:30:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Birmingham stabbing: Man held over Christina Edkins attack",
+                "description": "A man is arrested after a 16-year-old girl was stabbed to death on a rush-hour bus on one of Birmingham's busiest roads.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-03-07T22:05:02Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-21697693"
+            },
+            "@id": "http://www.bbc.co.uk/things/5a33a72e-fac2-4502-8091-de2d7e7155f0"
+        },
+        {
+            "preferredLabel": "Christina Edkins stabbed on bus to school",
+            "@type": "Event",
+            "eventStartDate": "2013-03-07T07:40:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Christina Edkins stabbing: Bus passengers 'heard screaming'",
+                "description": "Passengers on the lower deck of a bus where a girl was stabbed to death heard screaming but thought it was teenagers messing about, police say.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-03-08T18:02:13Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-21711661"
+            },
+            "@id": "http://www.bbc.co.uk/things/75c5bc2a-4591-42d0-9eec-41af17852a89"
+        },
+        {
+            "preferredLabel": "Phillip Simelane detained indefinitely under the Mental Health Act",
+            "@type": "Event",
+            "eventStartDate": "2013-10-02T00:00:00+01:00",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins stabbing: Phillip Simelane admits manslaughter",
+                        "description": "A 23-year-old man admits killing schoolgirl Christina Edkins on a bus in Birmingham city centre.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-02T10:21:15Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24358473"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins' killer Phillip Simelane threatened own mother",
+                        "description": "A man who stabbed a girl to death on a Birmingham bus had previously been jailed for threatening his own mother with a knife.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-02T09:59:21Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24358472"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins case: CCTV of killer Phillip Simelane released",
+                        "description": "CCTV images have been released of the man who killed 16-year-old Christina Edkins boarding the bus prior to her being stabbed.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-02T15:04:40Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24371338"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/70855372-4364-4fdd-9a15-17489ae963c1"
+        },
+        {
+            "preferredLabel": "Phillip Simelane remanded in custody to secure mental health unit",
+            "@type": "Event",
+            "eventStartDate": "2013-03-15T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/1db49785-b1c3-468e-ac5e-771598f6133c"
+        },
+        {
+            "preferredLabel": "Christina Edkins funeral held at St Philip's Cathedral, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-03-22T00:00:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Christina Edkins' cathedral funeral held",
+                "description": "Friends and family attend the funeral of a 16-year-old girl who was fatally stabbed on a bus in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-03-22T16:01:44Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-21897747"
+            },
+            "@id": "http://www.bbc.co.uk/things/051f9099-8c95-4629-ac86-0e7d2128e7bd"
+        },
+        {
+            "preferredLabel": "Phillip Simelane deemed unfit to plead",
+            "@type": "Event",
+            "eventStartDate": "2013-05-31T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/e9b876c7-1144-4a1f-ae8b-c049ec8c5ae3"
+        },
+        {
+            "preferredLabel": "Birmingham school creates Christina Edkins memorial award",
+            "@type": "Event",
+            "eventStartDate": "2013-07-22T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/2ece0628-04a4-41b8-9fa9-f9d91d765f86"
+        },
+        {
+            "preferredLabel": "Phillip Simelane is charged with murder of Christina Edkins",
+            "@type": "Event",
+            "eventStartDate": "2013-03-15T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/68e9c2f2-ef3a-458b-abaa-a1bdbb862e7e"
+        },
+        {
+            "preferredLabel": "Murder suspect sectioned following stabbing of Christina Edkins",
+            "@type": "Event",
+            "eventStartDate": "2013-03-08T00:00:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Christina Edkins bus stabbing: Arrested man sectioned",
+                "description": "A 22-year-old man arrested on suspicion of fatally stabbing 16-year-old Christina Edkins in Birmingham is sectioned under the Mental Health Act.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-03-08T18:46:11Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-21718547"
+            },
+            "@id": "http://www.bbc.co.uk/things/e4710627-2df9-4bcb-87c1-65ba94060192"
+        },
+        {
+            "preferredLabel": "Police announce suspect to be charged with Christina Edkins' murder",
+            "@type": "Event",
+            "eventStartDate": "2013-03-12T00:00:00+00:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Christina Edkins bus stabbing: Man to be charged with murder",
+                "description": "A man is to be charged with murdering 16-year-old Christina Edkins, who was stabbed to death on a bus in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-03-12T14:51:39Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-21758146"
+            },
+            "@id": "http://www.bbc.co.uk/things/6c4e2bfe-a592-4da9-acb2-7f6e3787d057"
+        },
+        {
+            "preferredLabel": "Inquest opens into Christina Edkins death and ajourns",
+            "@type": "Event",
+            "eventStartDate": "2013-03-14T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/8fa7c92a-4d31-4aec-94e2-0f886b97898e"
+        },
+        {
+            "preferredLabel": "Coroner releases Christina Edkins' body to family for funeral",
+            "@type": "Event",
+            "eventStartDate": "2013-03-14T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/fb589cf1-d506-4eae-96af-b2daa1fc319d"
+        },
+        {
+            "preferredLabel": "Man stabbed in neck in Erdington",
+            "@type": "Event",
+            "eventStartDate": "2012-11-09T01:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/64b93a92-e337-4c89-99ac-92a7843d8d40"
+        },
+        {
+            "preferredLabel": "Errol Lee charged with attempted murder over neck stabbing",
+            "@type": "Event",
+            "eventStartDate": "2012-11-12T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/83d97e7d-6df9-41fa-ab68-29e3131cc8eb"
+        },
+        {
+            "preferredLabel": "Shaista Khatoon stabbed in Alum Rock, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2012-11-26T03:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/4a7275d3-b5dd-4f05-b8cc-ce8bb53e72b1"
+        },
+        {
+            "preferredLabel": "Shaista Khatoon pronounced dead in hospital",
+            "@type": "Event",
+            "eventStartDate": "2012-11-26T04:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/7f95933a-493a-4cba-9b70-666c62c70672"
+        },
+        {
+            "preferredLabel": "Man arrested on suspicion of Shaista Khatoon murder",
+            "@type": "Event",
+            "eventStartDate": "2012-11-19T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/1b7f861d-7e6f-4cec-8523-1d9c7179f83f"
+        },
+        {
+            "preferredLabel": "Man charged with murder of Shaista Khatoon",
+            "@type": "Event",
+            "eventStartDate": "2012-11-23T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/963288bc-c366-4bce-9ab8-71db33fa9d5c"
+        },
+        {
+            "preferredLabel": "Shoukat Ali admits murder of wife Shaista Khatoon",
+            "@type": "Event",
+            "eventStartDate": "2013-05-03T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Shoukat Ali murdered wife Shaista Khatoon over divorce",
+                "description": "An estranged husband admits slitting the throat of his wife at the family home after she asked for a divorce.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-05-03T15:45:21Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-22397345"
+            },
+            "@id": "http://www.bbc.co.uk/things/f42f8811-58ef-45fa-8cb3-a05d24623c59"
+        },
+        {
+            "preferredLabel": "Teenager charged with murder of Hassan Mahmood, another with assisting an offender",
+            "@type": "Event",
+            "eventStartDate": "2013-07-18T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Hassan Mahmood stabbing: Teenager charged with murder",
+                "description": "A 16-year-old boy is charged with murder after a teenager was fatally stabbed in a Birmingham park.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-07-18T20:33:03Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-23367812"
+            },
+            "@id": "http://www.bbc.co.uk/things/f5a5ade3-5d53-48cb-86bf-fb581693983f"
+        },
+        {
+            "preferredLabel": "Hassan Mahmood dies in hospital",
+            "@type": "Event",
+            "eventStartDate": "2013-07-15T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Yardley stabbing: Boy, 15, stabbed to death in fight",
+                "description": "Two teenagers are held on suspicion of murder after a 15-year-old boy is fatally stabbed in a park in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-07-16T19:34:27Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-20630614"
+            },
+            "@id": "http://www.bbc.co.uk/things/2791105a-3a8d-4660-9fc5-72d223e6af03"
+        },
+        {
+            "preferredLabel": "Hassan Mahmood stabbed in South Yardley, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-07-25T06:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Yardley stabbing: Boy, 15, stabbed to death in fight",
+                "description": "Two teenagers are held on suspicion of murder after a 15-year-old boy is fatally stabbed in a park in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-07-16T19:34:27Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-20630614"
+            },
+            "@id": "http://www.bbc.co.uk/things/42072313-f7bc-4726-81af-fbe909f7cf80"
+        },
+        {
+            "preferredLabel": "One teenager remanded, one bailed over Hassan Mahmood stabbing",
+            "@type": "Event",
+            "eventStartDate": "2013-07-29T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/908f6abe-4a5b-4dea-8d5a-403a12f4a069"
+        },
+        {
+            "preferredLabel": "Fourth man, Ashley Smyth, charged over Mailbox stabbings",
+            "@type": "Event",
+            "eventStartDate": "2013-04-17T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/2e2d0c89-0ea2-4d9e-a0f2-b0ce9cb38f83"
+        },
+        {
+            "preferredLabel": "Arrest of second man stabbed in Mailbox bar",
+            "@type": "Event",
+            "eventStartDate": "2013-04-09T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/4094dc17-35ca-4e6a-b28e-3036a9d299d3"
+        },
+        {
+            "preferredLabel": "Three men charged with violent disorder over Mailbox bar stabbings",
+            "@type": "Event",
+            "eventStartDate": "2013-04-16T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/0ff88584-bdce-4e5b-81ed-a3a777ddadb4"
+        },
+        {
+            "preferredLabel": "Fourth man arrested over Mailbox bar stabbings",
+            "@type": "Event",
+            "eventStartDate": "2013-04-08T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/92e482c7-2f57-4b4a-93d9-c2927401d552"
+        },
+        {
+            "preferredLabel": "One of two men stabbed in Mailbox bar arrested on release from hospital",
+            "@type": "Event",
+            "eventStartDate": "2013-04-07T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/fb33a019-98a9-479e-9576-2f711bd57d53"
+        },
+        {
+            "preferredLabel": "First two men arrested over Mailbox bar stabbings bailed",
+            "@type": "Event",
+            "eventStartDate": "2013-04-08T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/28a5011a-c9c0-4c7f-8f5b-897a178a9aa7"
+        },
+        {
+            "preferredLabel": "Two men arrested after stabbing at Mailbox Bar Room Bar",
+            "@type": "Event",
+            "eventStartDate": "2013-04-13T09:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/3534190c-0379-4a17-9a50-368f10d883d8"
+        },
+        {
+            "preferredLabel": "Two men stabbed in Bar Room Bar at the Mailbox",
+            "@type": "Event",
+            "eventStartDate": "2013-04-06T20:30:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/f5e25430-74fc-4e50-977c-4c28367c6313"
+        },
+        {
+            "preferredLabel": "Three teenagers arrested over Opel One stabbing",
+            "@type": "Event",
+            "eventStartDate": "2012-04-28T01:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/1b5cc4dc-7dc2-41ed-98a9-bea495bc24d5"
+        },
+        {
+            "preferredLabel": "Man stabbed outside Opal One flats in Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2012-04-28T01:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/8319fb5c-4bb4-4e4a-8324-369a82738826"
+        },
+        {
+            "preferredLabel": "Two more teenagers arrested over Opel One stabbing",
+            "@type": "Event",
+            "eventStartDate": "2012-04-29T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/628f5278-4861-471b-a775-59a9a9a331f8"
+        },
+        {
+            "preferredLabel": "Opel One stabbing victim undergoes emergency surgery",
+            "@type": "Event",
+            "eventStartDate": "2012-04-29T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/e9624dd0-fa5a-4275-8f32-b6cbdf9b8176"
+        },
+        {
+            "preferredLabel": "Five youths charged with wounding after Opel One stabbing",
+            "@type": "Event",
+            "eventStartDate": "2012-04-29T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/339be229-bf4d-40e4-a811-859ace172176"
+        },
+        {
+            "preferredLabel": "Kyle Sheehan's grandmother urges killer to come forward",
+            "@type": "Event",
+            "eventStartDate": "2013-02-28T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/e2dab83d-9db7-46df-a662-e2dadb370a72"
+        },
+        {
+            "preferredLabel": "Kyle Sheehan's family appeal for information",
+            "@type": "Event",
+            "eventStartDate": "2012-10-01T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/411a749f-7744-45d1-a94f-e5bb5bbc1c94"
+        },
+        {
+            "preferredLabel": "All four arrested in connection with Kyle Sheehan stabbing bailed",
+            "@type": "Event",
+            "eventStartDate": "2012-10-01T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/8e5b346d-2656-4901-ae09-73f1f9861355"
+        },
+        {
+            "preferredLabel": "Man arrested on suspicion of murder of Kyle Sheehan",
+            "@type": "Event",
+            "eventStartDate": "2012-09-29T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/601e4a88-0acb-4aff-8681-583e33c0fd17"
+        },
+        {
+            "preferredLabel": "Kyle Sheehan dies in hospital",
+            "@type": "Event",
+            "eventStartDate": "2012-09-28T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/3143e74e-c7fb-44fc-ab0a-ba5f5f89bb31"
+        },
+        {
+            "preferredLabel": "Three arrested on suspicion of assult after Bartley Green stabbing",
+            "@type": "Event",
+            "eventStartDate": "2012-09-22T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/be6263a4-969a-471e-a024-5b22aa0c8586"
+        },
+        {
+            "preferredLabel": "Rapper Depzman stabbed at stabbing victim's tribute night",
+            "@type": "Event",
+            "eventStartDate": "2013-09-19T11:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Selly Oak stabbing: Man arrested on suspicion of murder",
+                "description": "Police arrest a man after an 18-year-old is stabbed to death during a night out in Birmingham.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-09-21T11:50:59Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24186020"
+            },
+            "@id": "http://www.bbc.co.uk/things/4ee79def-241b-4c27-aab7-e9490e177c62"
+        },
+        {
+            "preferredLabel": "Kyle Sheehan stabbed in the leg in Bartley Green",
+            "@type": "Event",
+            "eventStartDate": "2012-09-21T22:15:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/1f61b530-a530-4a7d-97e8-336a8ebc0f6a"
+        },
+        {
+            "preferredLabel": "Oliver Smith stabbed in Druids Heath, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2012-02-19T02:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/ae96009c-2709-46bc-9e4c-20b1b6bc2872"
+        },
+        {
+            "preferredLabel": "Man arrested on suspicion of murder of Oliver Smith",
+            "@type": "Event",
+            "eventStartDate": "2012-02-13T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/bbfaf5a3-1bae-465e-8f7e-0a5db886845a"
+        },
+        {
+            "preferredLabel": "Man charged with murder of Oliver Smith",
+            "@type": "Event",
+            "eventStartDate": "2012-02-16T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/be382ddc-a39d-406f-bb5d-e9035d75f0f6"
+        },
+        {
+            "preferredLabel": "Michael Foster given indefinite hospital order",
+            "@type": "Event",
+            "eventStartDate": "2012-03-09T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/a468fb63-dd15-4145-a4ea-04d227a04442"
+        },
+        {
+            "preferredLabel": "Michael Foster pleads guilty to manslaughter of Oliver Smith",
+            "@type": "Event",
+            "eventStartDate": "2012-07-01T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/0c7b5caf-b9f5-4d2e-b9e9-b9c3eca4879c"
+        },
+        {
+            "preferredLabel": "Leon Harrison charged with attempted murder",
+            "@type": "Event",
+            "eventStartDate": "2013-07-30T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Man charged after pregnant woman stabbed in Stirchley",
+                "description": "A 31-year-old man is charged with the attempted murder of a pregnant woman.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-07-30T11:14:43Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-23504090"
+            },
+            "@id": "http://www.bbc.co.uk/things/333d697c-bdf6-4e1f-a430-ea3c5f3c5057"
+        },
+        {
+            "preferredLabel": "Police name Stirchley stabbing suspect",
+            "@type": "Event",
+            "eventStartDate": "2013-07-02T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Leon Harrison named as Stirchley pregnant woman stabbing suspect",
+                "description": "A man suspected of stabbing a pregnant woman in a Birmingham car park is named by police.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-07-02T16:26:14Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-23153359"
+            },
+            "@id": "http://www.bbc.co.uk/things/2f2f8605-3749-40e2-bd72-46c6eaaf1509"
+        },
+        {
+            "preferredLabel": "Stirchley stab suspect Leon Harrison hands himself in and is arrested",
+            "@type": "Event",
+            "eventStartDate": "2013-07-03T00:00:00+01:00",
+            "taggedOn": {
+                "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                "title": "Stirchley stab suspect Leon Harrison arrested by police",
+                "description": "A man suspected of stabbing a pregnant woman in a Birmingham car park is arrested, as police say the victim is in a critical but stable condition.",
+                "@type": "NewsItem",
+                "dateCreated": "2013-07-03T11:42:45Z",
+                "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-23160070"
+            },
+            "@id": "http://www.bbc.co.uk/things/80cf6644-9ef0-46f1-9dc5-58a1f10284a1"
+        },
+        {
+            "preferredLabel": "Pregnant woman stabbed in Stirchley car park",
+            "@type": "Event",
+            "eventStartDate": "2013-07-08T02:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/c4e7edd3-005f-42ba-bc64-a6003cc8664c"
+        },
+        {
+            "preferredLabel": "Natasha Trevis stabbed in a taxi in Northfield, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2012-08-07T08:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/613f0f0d-ac94-4a22-b4a7-e16e642f8161"
+        },
+        {
+            "preferredLabel": "Man arrested following stabbing of Natasha Trevis",
+            "@type": "Event",
+            "eventStartDate": "2012-08-14T06:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/a83448cd-2f14-40d4-8e3d-7030bf90e70f"
+        },
+        {
+            "preferredLabel": "Man charged with murder of Natasha Trevis",
+            "@type": "Event",
+            "eventStartDate": "2012-08-08T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/65a18741-3622-4d43-8765-9c7972660bbe"
+        },
+        {
+            "preferredLabel": "Junior Saleem Oakes appears in court charged with murder",
+            "@type": "Event",
+            "eventStartDate": "2012-08-09T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/68c0ca42-3044-4bd2-a5ac-b46d191bd90b"
+        },
+        {
+            "preferredLabel": "Junior Saleem Oakes remanded in custody",
+            "@type": "Event",
+            "eventStartDate": "2012-08-13T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/153ef027-1d10-441b-b849-27a67eacefe2"
+        },
+        {
+            "preferredLabel": "Junior Saleem Oakes pleads guilty and is jailed",
+            "@type": "Event",
+            "eventStartDate": "2013-01-07T00:00:00+00:00",
+            "@id": "http://www.bbc.co.uk/things/3237a017-b097-4481-9d37-db606584cae3"
+        },
+        {
+            "preferredLabel": "Stabbed PC gets award for unrelated incident",
+            "@type": "Event",
+            "eventStartDate": "2013-06-21T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/e5dfb718-0bd8-456e-be30-633a8125fa57"
+        },
+        {
+            "preferredLabel": "Ward End mosque stabbing suspect taken to secure mental health unit",
+            "@type": "Event",
+            "eventStartDate": "2013-06-16T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/846c948e-8c83-4236-8bcf-4b07ca81b42d"
+        },
+        {
+            "preferredLabel": "Stabbed PC undergoes surgery and thanks mosuqe worshippers",
+            "@type": "Event",
+            "eventStartDate": "2013-06-17T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/3b95fc9f-8da5-4515-a756-c0b9ca183f14"
+        },
+        {
+            "preferredLabel": "Ward End mosque stabbing suspect deemed unfit to be interviewed",
+            "@type": "Event",
+            "eventStartDate": "2013-06-16T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/aa1b66a7-9428-45cc-87e2-fb68b573b3ac"
+        },
+        {
+            "preferredLabel": "Three stabbed at mosque in Ward End, Birmingham",
+            "@type": "Event",
+            "eventStartDate": "2013-06-15T23:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/65268652-c3a3-4544-93e7-43e3e7a74412"
+        },
+        {
+            "preferredLabel": "Police officer stabbed during arrest of Ward End mosque stabbing suspect",
+            "@type": "Event",
+            "eventStartDate": "2013-06-15T23:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/837f8e9f-7291-4fe5-8f22-350b3bf6e5fe"
+        },
+        {
+            "preferredLabel": "Body of Marcus Wye discovered in Druids Heath",
+            "@type": "Event",
+            "eventStartDate": "2012-04-14T10:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/d5c5dbe5-c63d-45b9-a453-074804a159e3"
+        },
+        {
+            "preferredLabel": "Man arrested on suspicion of murder of Marcus Wye",
+            "@type": "Event",
+            "eventStartDate": "2012-04-07T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/4f3bd647-c31b-41ab-8726-556671857a53"
+        },
+        {
+            "preferredLabel": "Man charged with murder of Marcus Wye",
+            "@type": "Event",
+            "eventStartDate": "2012-04-08T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/34b8f0ca-a5a7-4525-a176-8d97d6cd914c"
+        },
+        {
+            "preferredLabel": "Christina Edkins memorial garden announced",
+            "@type": "Event",
+            "eventStartDate": "2013-09-17T00:00:00+01:00",
+            "@id": "http://www.bbc.co.uk/things/a36388a4-0736-4097-bb32-c046a16d5c40"
+        },
+        {
+            "preferredLabel": "Christina Edkins memorial garden opens",
+            "@type": "Event",
+            "eventStartDate": "2013-10-03T00:00:00+01:00",
+            "taggedOn": {
+                "@set": [
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Christina Edkins: Memorial garden opening for bus stab victim",
+                        "description": "A garden in memory of a teenage girl who was stabbed to death on a bus is to be opened later.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-03T07:06:17Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24372184"
+                    },
+                    {
+                        "product": "http://www.bbc.co.uk/ontologies/bbc/NewsWeb",
+                        "title": "Memorial garden for Christina Edkins",
+                        "description": "A memorial garden has been opened at the former school of Christina Edkins, who was stabbed in a random attack in Birmingham in March.",
+                        "@type": "NewsItem",
+                        "dateCreated": "2013-10-04T11:01:42Z",
+                        "@id": "http://www.bbc.co.uk/news/uk-england-birmingham-24394963"
+                    }
+                ]
+            },
+            "@id": "http://www.bbc.co.uk/things/c540aad4-c7b2-4a67-baf7-54e9bd02dfd1"
+        }
+    ]
+}

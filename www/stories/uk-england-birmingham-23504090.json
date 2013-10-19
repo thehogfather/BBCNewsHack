@@ -1,0 +1,58 @@
+{
+  "results" : [ {
+    "summary" : "A 31-year-old man is charged with the attempted murder of a pregnant woman.",
+    "type" : "STY",
+    "lastUpdated" : "2013-07-30T11:14:43+00:00",
+    "firstCreated" : "2013-07-30T10:34:38+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/b6c99b7c-4a1c-3242-a52e-46060a5c09fa\"><paragraph role=\"introduction\">A 31-year-old man from Birmingham has been charged with attempted murder after a pregnant woman was stabbed in a car park.</paragraph><paragraph>The woman was attacked near Fitness First, Stirchley, on Pershore Road in Birmingham on 1 July. </paragraph><paragraph>Leon Harrison, from Swinford Road, Selly Oak, was arrested on 3 July after he handed himself in at a police station, West Midlands Police said.</paragraph><paragraph>He was due to appear before Birmingham Magistrates' Court on Tuesday.</paragraph><paragraph>The victim of the stabbing, who was in the early stages of pregnancy is now \"on the road to recovery\", police said.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/b6c99b7c-4a1c-3242-a52e-46060a5c09fa\"><paragraph>A 31-year-old man from Birmingham has been charged with attempted murder after a pregnant woman was stabbed in a car park.</paragraph><paragraph>The woman was attacked near Fitness First, Stirchley, on Pershore Road in Birmingham on 1 July.</paragraph><paragraph>Leon Harrison, from Swinford Road, Selly Oak, was arrested on 3 July after he handed himself in at a police station, West Midlands Police said.</paragraph><paragraph>He was due to appear before Birmingham Magistrates' Court on Tuesday.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "index" : {
+          "60562855" : {
+            "height" : 360,
+            "width" : 640,
+            "href" : "http://news.bbcimg.co.uk/media/images/60562000/jpg/_60562855_005783605-1.jpg",
+            "altText" : "Statue"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts/",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-23504090",
+    "assetId" : "23504090",
+    "headline" : "Man charged after pregnant woman stabbed in Stirchley",
+    "shortHeadline" : "Charge after pregnant woman stabbed",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.23504090.page"
+  } ]
+}

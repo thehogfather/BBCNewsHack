@@ -1,0 +1,84 @@
+{
+  "results" : [ {
+    "summary" : "A teenager charged with murder after the fatal stabbing of a college student in Birmingham is remanded in custody.",
+    "type" : "STY",
+    "lastUpdated" : "2013-09-19T13:06:27+00:00",
+    "firstCreated" : "2013-09-19T11:33:30+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/e33bd1c8-63d9-6c40-9abb-d58d7e4da5d6\"><image id=\"69936256\"/><paragraph role=\"introduction\">A teenager charged with the murder of a college student stabbed in Birmingham has been remanded in custody.</paragraph><paragraph>The 17-year-old, charged with murdering 16-year-old Azim Azam, will appear at the city's crown court on Monday.</paragraph><paragraph>Azim, from Billesley, was found collapsed in the street after getting off the number two bus in Moseley at 08:30 BST on Monday.</paragraph><paragraph>The accused, who cannot be named because of his age, appeared at Birmingham Youth Court.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/e33bd1c8-63d9-6c40-9abb-d58d7e4da5d6\"><paragraph>A teenager charged with the murder of a college student stabbed in Birmingham has been remanded in custody.</paragraph><paragraph>The 17-year-old, charged with murdering 16-year-old Azim Azam, will appear at the city's crown court on Monday.</paragraph><paragraph>Azim, from Billesley, was found collapsed in the street after getting off the number two bus in Moseley at 08:30 BST on Monday.</paragraph><paragraph>The accused, who cannot be named because of his age, appeared at Birmingham Youth Court.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "69901296" : {
+            "height" : 299,
+            "width" : 224,
+            "href" : "http://news.bbcimg.co.uk/media/images/69901000/png/_69901296_azim.png",
+            "caption" : "Victim Azim Azam, 16, died in hospital from a single stab wounds",
+            "altText" : "Azim Azam"
+          },
+          "69889729" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/69889000/jpg/_69889729_stabbingscene.jpg",
+            "caption" : "Azim Azam was found collapsed at the junction between Hayfield Road and Yardley Wood Road",
+            "altText" : "stab scene in Moseley",
+            "positionHint" : "body-narrow-width"
+          },
+          "69936256" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/69936000/png/_69936256_azim.png",
+            "caption" : "Victim Azim Azam, 16, died from a single stab wound",
+            "altText" : "Azim Azam",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "69900760" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/69900000/png/_69900760_azim.png",
+            "altText" : "Azim Azam"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts/courts",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts/courts"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : false,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-24161505",
+    "assetId" : "24161505",
+    "headline" : "Teenager remanded over Azim Azam murder in Birmingham",
+    "shortHeadline" : "Fatal stabbing accused in court",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "workerCallingCard" : "NOLAPPS201-6006",
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.24161505.page"
+  } ]
+}

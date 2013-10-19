@@ -1,0 +1,299 @@
+{
+  "results" : [ {
+    "summary" : "A homeless man who admitted the manslaughter of two Big Issue sellers is detained for life with a minimum tariff of 12 years.",
+    "type" : "STY",
+    "lastUpdated" : "2013-10-15T17:51:30+00:00",
+    "firstCreated" : "2013-10-15T09:29:06+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/6b409ced-9287-bd4f-b6b2-7db9965c8627\"><!-- Embedded video --><video media-id=\"70497762\">    <caption>Footage released by police shows killer John Ward befriending his victims</caption>  </video><paragraph role=\"introduction\">A homeless man who admitted killing two Big Issue sellers in a knife attack in Birmingham has been detained for life.</paragraph><paragraph>Ian Watson-Gladwish, 31, and Wayne Busst, 32, who were also homeless, <!-- CPS Asset ID: 24542701 --><link><caption>were stabbed in Union Street on 11 January</caption><url platform=\"highweb\" href=\"http://www.bbc.co.uk/news/uk-england-birmingham-21045520\"/></link>.</paragraph><paragraph>John Ward denied murder but admitted manslaughter on the grounds of diminished responsibility and was given a minimum tariff of 12 years.</paragraph><paragraph>Ward, 23, a paranoid schizophrenic, appeared via video link at Birmingham Crown Court because of safety concerns.</paragraph><paragraph>The court heard that a week ago Ward attacked and seriously injured a member of staff at Ashworth Hospital, the secure psychiatric unit where he is being held.</paragraph><image id=\"70492550\"/><paragraph>Ahead of Ward's trial, Big Issue founder John Bird said \"the streets are incredibly dangerous\" and it was difficult to protect the magazine vendors.</paragraph><paragraph>He said the charity was looking at other ways of working with homeless people who did not want to be street sellers.</paragraph><paragraph>Both men were stabbed to death near their pitches.</paragraph><paragraph>One of the men was stabbed outside Sainsbury's in Union Street, while the other was found slumped nearby outside a side entrance to Boots.</paragraph><paragraph>Peter Grieves-Smith, prosecuting, said Ward travelled from London to Birmingham, bought a knife, alcohol and a bag of heroin - which he smoked - and then stood with the men as they sold the magazine.</paragraph><crosshead>Fled to cinema</crosshead><paragraph>It was the first time he had met the men, who were fellow drug-users.</paragraph><paragraph>Ward, of no fixed address, then struck out at them, with one eyewitness describing seeing him afterwards looking \"angry and arrogant\".</paragraph><image id=\"70490036\"/><paragraph>The knife was thrown away in an alleyway and Ward walked to a nearby Odeon cinema where he sat and wiped blood from his face and hands with napkins until the police arrived to arrest him.</paragraph><paragraph>Afterwards he gave police with a written statement that said: \"John Ward admits stabbing two men in Birmingham city centre - he intended to hurt them but not to kill them.\"</paragraph><paragraph>Mr Grieves-Smith said psychiatric experts for both the prosecution and defence had since assessed Ward as a paranoid schizophrenic and agreed that this serious mental health disorder was at the root of his attacks.</paragraph><paragraph>Ward told Dr Panchu Xavier, forensic psychiatrist at Ashworth Hospital, \"he didn't want to do anything but \"the voices wanted me to kill everyone\"'.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/6b409ced-9287-bd4f-b6b2-7db9965c8627\"><paragraph>A homeless man who admitted killing two Big Issue sellers in a knife attack in Birmingham has been detained for life.</paragraph><paragraph>Ian Watson-Gladwish, 31, and Wayne Busst, 32, who were also homeless, were stabbed in Union Street on 11 January.</paragraph><paragraph>John Ward denied murder but admitted manslaughter on the grounds of diminished responsibility and was given a minimum tariff of 12 years.</paragraph><paragraph>Ward, 23, a paranoid schizophrenic, appeared via video link at Birmingham Crown Court because of safety concerns.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "70488193" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/70488000/jpg/_70488193_jex_7407_de27-1.jpg",
+            "caption" : "Union Street, which was cordoned off on following the 11 January incident",
+            "altText" : "Union Street closed on Friday night",
+            "positionHint" : "body-narrow-width"
+          },
+          "70492638" : {
+            "height" : 299,
+            "width" : 224,
+            "href" : "http://news.bbcimg.co.uk/media/images/70492000/jpg/_70492638_jward1510.jpg",
+            "caption" : "Ward denied murder but admitted manslaughter",
+            "altText" : "John Ward"
+          },
+          "70492550" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/70492000/jpg/_70492550_bigissue5.jpg",
+            "caption" : "Big Issue sellers Wayne Busst (left) and Ian Watson-Gladwish were fatally stabbed in January",
+            "altText" : "alt - Big Issue sellers Wayne Busst (left) and Ian Watson-Gladwish",
+            "positionHint" : "body-narrow-width"
+          },
+          "70490036" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/70490000/jpg/_70490036_jward1510.jpg",
+            "caption" : "Ward denied murder but admitted manslaughter",
+            "altText" : "John Ward",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "70492642" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/70492000/jpg/_70492642_jward1510.jpg",
+            "altText" : "John Ward"
+          }
+        },
+        "index-thumbnail" : {
+          "70492644" : {
+            "height" : 180,
+            "width" : 320,
+            "href" : "http://news.bbcimg.co.uk/media/images/70492000/jpg/_70492644_jward1510.jpg",
+            "altText" : "John Ward"
+          }
+        }
+      },
+      "videos" : {
+        "body" : {
+          "70497762" : {
+            "duration" : "PT2M4S",
+            "available" : true,
+            "mimeType" : "application/xml",
+            "href" : "http://playlists.bbc.co.uk/news/uk-england-24540526A/playlist.sxml",
+            "externalId" : "p01js9q4",
+            "caption" : "Chilling footage has been released by West Midlands Police showing the moment killer John Ward befriended his victims.",
+            "guidance" : "This video has no sound",
+            "allowOffSiteEmbedding" : false,
+            "live" : false,
+            "image" : {
+              "height" : 360,
+              "width" : 640,
+              "href" : "http://news.bbcimg.co.uk/media/images/70496000/jpg/_70496368_cctvbigissue.jpg",
+              "altText" : "cctv big issue stabbings"
+            }
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "The founder of The Big Issue magazine says the killing of two homeless vendors in Birmingham \"almost destroyed\" the organisation's belief in itself.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-15T10:09:41+00:00",
+        "firstCreated" : "2013-10-14T14:52:45+00:00",
+        "hasShortForm" : false,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-24521330",
+        "headline" : "Big Issue founder questioned future after Birmingham deaths",
+        "shortHeadline" : "Big Issue founder questioned future",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "nolapps575-6001"
+      }, {
+        "summary" : "A man charged with murdering two Big Issue sellers in Birmingham appears at the city's crown court.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-16T11:58:59+00:00",
+        "firstCreated" : "2013-01-16T11:52:04+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21045520",
+        "headline" : "Birmingham Big Issue stabbings: John Ward in court",
+        "shortHeadline" : "Big Issue murder accused in court",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "A memorial service for two Big Issue sellers who were stabbed to death in Birmingham has been held at a city centre church.",
+        "type" : "MAP",
+        "lastUpdated" : "2013-01-24T21:12:31+00:00",
+        "firstCreated" : "2013-01-24T21:06:43+00:00",
+        "hasShortForm" : false,
+        "media" : {
+          "videos" : {
+            "primary" : {
+              "65498999" : {
+                "duration" : "PT1M47S",
+                "available" : true,
+                "mimeType" : "application/xml",
+                "href" : "http://playlists.bbc.co.uk/news/uk-england-birmingham-21190874A/playlist.sxml",
+                "externalId" : "p0146j0l",
+                "caption" : "Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago",
+                "allowOffSiteEmbedding" : false,
+                "live" : false,
+                "image" : {
+                  "height" : 360,
+                  "width" : 640,
+                  "href" : "http://news.bbcimg.co.uk/media/images/65498000/jpg/_65498691_candles.jpg",
+                  "altText" : "Candles at a memorial service"
+                }
+              }
+            }
+          }
+        },
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21190874",
+        "headline" : "Stabbed Big Issue sellers: Birmingham memorial service",
+        "shortHeadline" : "Service for killed Big Issue pair",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "mediaType" : "Video"
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "The founder of The Big Issue magazine says the killing of two homeless vendors in Birmingham \"almost destroyed\" the organisation's belief in itself.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-15T10:09:41+00:00",
+        "firstCreated" : "2013-10-14T14:52:45+00:00",
+        "hasShortForm" : false,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-24521330",
+        "headline" : "Big Issue founder questioned future after Birmingham deaths",
+        "shortHeadline" : "Big Issue founder questioned future",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "nolapps575-6001"
+      }, {
+        "summary" : "A man charged with murdering two Big Issue sellers in Birmingham appears at the city's crown court.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-16T11:58:59+00:00",
+        "firstCreated" : "2013-01-16T11:52:04+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21045520",
+        "headline" : "Birmingham Big Issue stabbings: John Ward in court",
+        "shortHeadline" : "Big Issue murder accused in court",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "A memorial service for two Big Issue sellers who were stabbed to death in Birmingham has been held at a city centre church.",
+        "type" : "MAP",
+        "lastUpdated" : "2013-01-24T21:12:31+00:00",
+        "firstCreated" : "2013-01-24T21:06:43+00:00",
+        "hasShortForm" : false,
+        "media" : {
+          "videos" : {
+            "primary" : {
+              "65498999" : {
+                "duration" : "PT1M47S",
+                "available" : true,
+                "mimeType" : "application/xml",
+                "href" : "http://playlists.bbc.co.uk/news/uk-england-birmingham-21190874A/playlist.sxml",
+                "externalId" : "p0146j0l",
+                "caption" : "Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago",
+                "allowOffSiteEmbedding" : false,
+                "live" : false,
+                "image" : {
+                  "height" : 360,
+                  "width" : 640,
+                  "href" : "http://news.bbcimg.co.uk/media/images/65498000/jpg/_65498691_candles.jpg",
+                  "altText" : "Candles at a memorial service"
+                }
+              }
+            }
+          }
+        },
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21190874",
+        "headline" : "Stabbed Big Issue sellers: Birmingham memorial service",
+        "shortHeadline" : "Service for killed Big Issue pair",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "mediaType" : "Video"
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts & Tribunals Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts"
+        },
+        "assetTypeCode" : "URL"
+      }, {
+        "title" : "The Big Issue Foundation",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.bigissue.org.uk/",
+          "highweb" : "http://www.bigissue.org.uk/"
+        },
+        "assetTypeCode" : "URL"
+      }, {
+        "title" : "West Midlands Police",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.west-midlands.police.uk/",
+          "highweb" : "http://www.west-midlands.police.uk/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : false,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-24534329",
+    "assetId" : "24534329",
+    "headline" : "Big Issue stabbings: Homeless man detained for life",
+    "shortHeadline" : "Big Issue sellers' killer given life",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "workerCallingCard" : "NOLAPPS571-6006",
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.24534329.page"
+  } ]
+}

@@ -1,0 +1,218 @@
+{
+  "results" : [ {
+    "summary" : "The founder of The Big Issue magazine says the killing of two homeless vendors in Birmingham \"almost destroyed\" the organisation's belief in itself.",
+    "type" : "STY",
+    "lastUpdated" : "2013-10-15T10:09:41+00:00",
+    "firstCreated" : "2013-10-14T14:52:45+00:00",
+    "hasShortForm" : false,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/16ef6dd5-44cf-3a4e-baff-1adecdc4b9b8\"><image id=\"70475618\"/><paragraph role=\"introduction\">The killings of two sellers of The Big Issue \"almost destroyed\" the organisation's \"belief in ourselves\", its founder has said.</paragraph><paragraph>Wayne Busst, 32, and Ian Watson-Gladwish, 31, both homeless men from Birmingham, were stabbed in Union Street in the city centre on 11 January. </paragraph><paragraph>John Ward, 23, of no fixed address, denied murder but admitted manslaughter on the grounds of diminished responsibility. He was given a minimum tariff of 12 years.</paragraph><paragraph>The Big Issue founder John Bird said following the deaths, there were a number of people at the magazine organisation who said it \"can't leave people in this situation\".</paragraph><paragraph>He added: \"I found it very difficult because being the person who put the whole thing together, I thought... maybe I shouldn't have bothered.</paragraph><paragraph>\"When we thought about it, obviously when you've got 22 years [of The Big Issue] and you look at the amount of people who have been injured and hurt and the people who have been killed, it's a very small amount for that amount of time.</paragraph><paragraph>\"But every time somebody gets attacked or murdered, you do stop and think. It wouldn't be human not to stop and think 'isn't there another way to do it?'\" </paragraph><crosshead>'Incredibly dangerous'</crosshead><paragraph>The magazine is sold on the streets by homeless people, who themselves have to initially buy the copies for 50% of the cover price. The intention is that the vendors earn money but also take charge of their finances, develop coping skills and boost their self-esteem.</paragraph><paragraph>But Mr Bird said the charity was now \"building other ways\" of working with homeless people by \"turning them into content providers\" for The Big Issue's digital magazine.</paragraph><paragraph>\"So some people could come to us and say 'we want to do things but we don't want to sell on the streets',\" he said.</paragraph><paragraph>\"The streets are incredibly dangerous. They always have been. They always will be. But the way in which The Big Issue has rallied I think is exemplary. </paragraph><image id=\"65251617\"/><paragraph>\"The public were enormously supportive of our staff and our vendors, so we kind of weathered it, but it raises very big issues that I've been working on for a few years because I'm an ex-runaway and rough sleeper and I knew how vulnerable it was [on the streets].\"</paragraph><paragraph>Mr Bird said staff took what happened \"very, very badly\" and the organisation \"had to do a lot of hand holding because they knew the vendors very well\".</paragraph><paragraph>The Big Issue runs \"a very tight\" street support service, he added, but it was \"very difficult to protect people from the public\".</paragraph><paragraph>The magazine founder said: \"I don't know what else we could do.</paragraph><paragraph>\"We will always be vulnerable to some random person who may have had some great problem in their lives which has led them to become psychotic.\"</paragraph><paragraph>Mr Bird said he used to see people who were mentally ill on the streets and who \"are harming themselves and could possibly harm others\".</paragraph><paragraph>He said: \"If I had my way, I'd pick all these people up and take them to a place of safety. I wouldn't put them back in the old asylums. </paragraph><paragraph>\"I would put them in a place of safety where they don't harm other people and they don't harm themselves.\"</paragraph></body>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "70475618" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/70475000/jpg/_70475618_johnb.jpg",
+            "caption" : "Founder John Bird said the Big Issue was \"building other ways\" of working with homeless people",
+            "altText" : "John Bird",
+            "positionHint" : "body-narrow-width"
+          },
+          "65251617" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65251000/jpg/_65251617_stabbing.jpg",
+            "caption" : "Wayne Busst and Ian Gladwish were sellers of The Big Issue",
+            "altText" : "Wayne Lee Busst (left) and Ian Watson Gladwish (right)",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "70486312" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/70486000/jpg/_70486312_johnb.jpg",
+            "altText" : "John Bird"
+          }
+        },
+        "index-thumbnail" : {
+          "70486313" : {
+            "height" : 180,
+            "width" : 320,
+            "href" : "http://news.bbcimg.co.uk/media/images/70486000/jpg/_70486313_johnb.jpg",
+            "altText" : "John Bird"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "Founder of the Big Issue John Bird discusses why only 25% of people who pay for the magazine actually take a copy.",
+        "type" : "MAP",
+        "lastUpdated" : "2013-09-30T09:16:48+00:00",
+        "firstCreated" : "2013-09-30T09:07:10+00:00",
+        "hasShortForm" : false,
+        "media" : {
+          "audios" : {
+            "primary" : {
+              "70185192" : {
+                "duration" : "PT4M34S",
+                "available" : true,
+                "mimeType" : "application/xml",
+                "href" : "http://playlists.bbc.co.uk/news/uk-24327919A/playlist.sxml",
+                "externalId" : "p01hrrkf",
+                "caption" : "John Bird: \"Big Issue sellers worthy of support\"",
+                "allowOffSiteEmbedding" : false,
+                "live" : false,
+                "image" : {
+                  "height" : 360,
+                  "width" : 640,
+                  "href" : "http://news.bbcimg.co.uk/media/images/70182000/jpg/_70182919_bigissue.jpg",
+                  "altText" : "Big Issue vendor"
+                }
+              }
+            }
+          }
+        },
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-24327919",
+        "headline" : "Big Issue sellers 'worthy of support'",
+        "shortHeadline" : "Big Issue sellers 'worthy of support'",
+        "section" : {
+          "name" : "UK",
+          "uri" : "/news/uk"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "NOLAPPS571-6003",
+        "mediaType" : "Audio"
+      }, {
+        "summary" : "Two men stabbed to death in front of shoppers in Birmingham city centre were Big Issue sellers, the publication confirms.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-12T16:52:34+00:00",
+        "firstCreated" : "2013-01-12T09:43:12+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20997334",
+        "headline" : "Birmingham stabbings: Stab victims were Big Issue sellers",
+        "shortHeadline" : "Stab victims were Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "Founder of the Big Issue John Bird discusses why only 25% of people who pay for the magazine actually take a copy.",
+        "type" : "MAP",
+        "lastUpdated" : "2013-09-30T09:16:48+00:00",
+        "firstCreated" : "2013-09-30T09:07:10+00:00",
+        "hasShortForm" : false,
+        "media" : {
+          "audios" : {
+            "primary" : {
+              "70185192" : {
+                "duration" : "PT4M34S",
+                "available" : true,
+                "mimeType" : "application/xml",
+                "href" : "http://playlists.bbc.co.uk/news/uk-24327919A/playlist.sxml",
+                "externalId" : "p01hrrkf",
+                "caption" : "John Bird: \"Big Issue sellers worthy of support\"",
+                "allowOffSiteEmbedding" : false,
+                "live" : false,
+                "image" : {
+                  "height" : 360,
+                  "width" : 640,
+                  "href" : "http://news.bbcimg.co.uk/media/images/70182000/jpg/_70182919_bigissue.jpg",
+                  "altText" : "Big Issue vendor"
+                }
+              }
+            }
+          }
+        },
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-24327919",
+        "headline" : "Big Issue sellers 'worthy of support'",
+        "shortHeadline" : "Big Issue sellers 'worthy of support'",
+        "section" : {
+          "name" : "UK",
+          "uri" : "/news/uk"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "NOLAPPS571-6003",
+        "mediaType" : "Audio"
+      }, {
+        "summary" : "Two men stabbed to death in front of shoppers in Birmingham city centre were Big Issue sellers, the publication confirms.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-12T16:52:34+00:00",
+        "firstCreated" : "2013-01-12T09:43:12+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20997334",
+        "headline" : "Birmingham stabbings: Stab victims were Big Issue sellers",
+        "shortHeadline" : "Stab victims were Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts & Tribunals Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts"
+        },
+        "assetTypeCode" : "URL"
+      }, {
+        "title" : "The Big Issue Foundation",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.bigissue.org.uk/",
+          "highweb" : "http://www.bigissue.org.uk/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-24521330",
+    "assetId" : "24521330",
+    "headline" : "Big Issue founder questioned future after Birmingham deaths",
+    "shortHeadline" : "Big Issue founder questioned future",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "workerCallingCard" : "nolapps575-6001",
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.24521330.page"
+  } ]
+}

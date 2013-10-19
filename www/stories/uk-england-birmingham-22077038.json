@@ -1,0 +1,291 @@
+{
+  "results" : [ {
+    "summary" : "Knife crime has dropped by 25% in the West Midlands, according to new police figures.",
+    "type" : "STY",
+    "lastUpdated" : "2013-04-09T10:43:01+00:00",
+    "firstCreated" : "2013-04-09T08:30:37+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/01222fe9-96e8-174f-9b53-2b16875935a3\"><paragraph role=\"introduction\">Knife crime in the West Midlands has fallen by a quarter, according to new police figures.</paragraph><paragraph>West Midlands Police said knife-related offences had fallen from 2,995 between April 2011 and 2012 to 2,237 during the following 12 month period.</paragraph><paragraph>It had received £1m from the government over two years to tackle the problem.</paragraph><paragraph>The force said incidents like the fatal stabbings of two Big Issue sellers and teenager Christina Edkins in Birmingham were \"mercifully rare\".</paragraph><paragraph>Assistant Chief Constable Sharon Rowe described the figures as \"promising.\"</paragraph><paragraph>She said the force had dealt with a number of \"terrible\" knife crimes in the past few months including the fatal stabbing of Christina on a bus in in March but she said these incidents should be \"viewed in context\".</paragraph><paragraph>\"Crimes involving knives are down massively in the last decade and are now mercifully rare,\" she said. </paragraph><paragraph>\"It's easy to read about such terrible crimes and believe crime is on the up but in reality crime is down and down considerably.\"</paragraph><crosshead>'Worrying'</crosshead><paragraph>The force had received £1m from the government's Communities Against Gun, Gangs and Knives project over two years but funding finished last month.</paragraph><paragraph>Birmingham charity Brap, which is working to tackle knife crime in the city, received £10,000 from that fund which it used to help young people who had been in trouble with the police.</paragraph><paragraph>Joy Warmington, from Brap, said the Home Office had not indicated whether it would receive any more funding.</paragraph><paragraph>\"It has left us with a challenge because the scheme has got momentum and trust and it's going to be hard to pull back from it,\" she said. </paragraph><paragraph>\"If we're not offering young people alternatives, we're not giving them a way of getting out of the problems of crime and given that youth funding is being cut too, it is worrying.\" </paragraph><paragraph>The Home Office said although police figures showed knife crime was down it was not complacent.</paragraph><paragraph>West Midlands Police figures showed that overall crime had fallen by 11% from April 2012 to March 2013 compared to the previous 12-month period with reductions in business crime, burglary and robbery.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/01222fe9-96e8-174f-9b53-2b16875935a3\"><paragraph>Knife crime in the West Midlands has fallen by a quarter, according to new police figures.</paragraph><paragraph>West Midlands Police said knife-related offences had fallen from 2,995 between April 2011 and 2012 to 2,237 during the following 12 month period.</paragraph><paragraph>It had received £1m from the government over two years to tackle the problem.</paragraph><paragraph>The force said incidents like the fatal stabbings of two Big Issue sellers and teenager Christina Edkins in Birmingham were \"mercifully rare\".</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "56589548" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/56589000/jpg/_56589548_008129250-2.jpg",
+            "caption" : "West Midlands Police received about £1m of government funding to tackle knife crime",
+            "altText" : "Knife crimes",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "56589552" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/56589000/jpg/_56589552_008129250-2.jpg",
+            "caption" : "Youngsters back tough knife crime sentences",
+            "altText" : "Knife crime"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "Friends and family attend the funeral of a 16-year-old girl who was fatally stabbed on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-03-22T17:58:10+00:00",
+        "firstCreated" : "2013-03-22T10:48:51+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-21897747",
+        "headline" : "Christina Edkins' cathedral funeral held",
+        "shortHeadline" : "Funeral held for girl stabbed on bus",
+        "section" : {
+          "name" : "England",
+          "uri" : "/news/england"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Serious stabbings in the West Midlands are tackled by the Knives End Lives campaign launched by the police.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-21T18:53:13+00:00",
+        "firstCreated" : "2013-01-21T14:58:54+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21117519",
+        "headline" : "Knives End Lives campaign tackles serious stabbings",
+        "shortHeadline" : "Knives End Lives campaign begins",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Two men stabbed to death in front of shoppers in Birmingham city centre were Big Issue sellers, the publication confirms.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-12T16:52:34+00:00",
+        "firstCreated" : "2013-01-12T09:43:12+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20997334",
+        "headline" : "Birmingham stabbings: Stab victims were Big Issue sellers",
+        "shortHeadline" : "Stab victims were Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Police target shops in Birmingham in a bid to see if they will illegally sell knives to under 18s.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-30T17:26:31+00:00",
+        "firstCreated" : "2013-01-30T16:26:45+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-birmingham-21262277",
+        "headline" : "Birmingham shops targeted in knife crime operation",
+        "shortHeadline" : "Police test shops for knife sales",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "A claim made by police that gangs in Birmingham would be eliminated by 2013 was \"unrealistic\", despite a drop in violent crime, it is claimed.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T03:21:53+00:00",
+        "firstCreated" : "2012-11-27T11:31:01+00:00",
+        "hasShortForm" : false,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20511015",
+        "headline" : "Birmingham street gang eradication in 2013 'unrealistic'",
+        "shortHeadline" : "Gang eradication 'unrealistic'",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "There has been a dramatic reduction in knife and gun deaths over the past decade in the West Midlands, police figures reveal.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T08:27:50+00:00",
+        "firstCreated" : "2013-01-11T10:06:40+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20984368",
+        "headline" : "West Midlands knife and gun crime halved in 10 years",
+        "shortHeadline" : "Knife deaths halved in 10 years",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "Friends and family attend the funeral of a 16-year-old girl who was fatally stabbed on a bus in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-03-22T17:58:10+00:00",
+        "firstCreated" : "2013-03-22T10:48:51+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-21897747",
+        "headline" : "Christina Edkins' cathedral funeral held",
+        "shortHeadline" : "Funeral held for girl stabbed on bus",
+        "section" : {
+          "name" : "England",
+          "uri" : "/news/england"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Serious stabbings in the West Midlands are tackled by the Knives End Lives campaign launched by the police.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-21T18:53:13+00:00",
+        "firstCreated" : "2013-01-21T14:58:54+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-21117519",
+        "headline" : "Knives End Lives campaign tackles serious stabbings",
+        "shortHeadline" : "Knives End Lives campaign begins",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Two men stabbed to death in front of shoppers in Birmingham city centre were Big Issue sellers, the publication confirms.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-12T16:52:34+00:00",
+        "firstCreated" : "2013-01-12T09:43:12+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20997334",
+        "headline" : "Birmingham stabbings: Stab victims were Big Issue sellers",
+        "shortHeadline" : "Stab victims were Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Police target shops in Birmingham in a bid to see if they will illegally sell knives to under 18s.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-30T17:26:31+00:00",
+        "firstCreated" : "2013-01-30T16:26:45+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-birmingham-21262277",
+        "headline" : "Birmingham shops targeted in knife crime operation",
+        "shortHeadline" : "Police test shops for knife sales",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "A claim made by police that gangs in Birmingham would be eliminated by 2013 was \"unrealistic\", despite a drop in violent crime, it is claimed.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T03:21:53+00:00",
+        "firstCreated" : "2012-11-27T11:31:01+00:00",
+        "hasShortForm" : false,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20511015",
+        "headline" : "Birmingham street gang eradication in 2013 'unrealistic'",
+        "shortHeadline" : "Gang eradication 'unrealistic'",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "There has been a dramatic reduction in knife and gun deaths over the past decade in the West Midlands, police figures reveal.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-14T08:27:50+00:00",
+        "firstCreated" : "2013-01-11T10:06:40+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20984368",
+        "headline" : "West Midlands knife and gun crime halved in 10 years",
+        "shortHeadline" : "Knife deaths halved in 10 years",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "West Midlands Police",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.west-midlands.police.uk/",
+          "highweb" : "http://www.west-midlands.police.uk/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-GB",
+    "assetUri" : "/news/uk-england-birmingham-22077038",
+    "assetId" : "22077038",
+    "headline" : "Knife crime down by 25% in West Midlands",
+    "shortHeadline" : "Knife crime drops in West Midlands",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.22077038.page"
+  } ]
+}

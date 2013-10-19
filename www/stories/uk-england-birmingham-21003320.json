@@ -1,0 +1,186 @@
+{
+  "results" : [ {
+    "summary" : "Two Big Issue sellers who were stabbed to death in front of shoppers in Birmingham were probably known to their attacker, police say.",
+    "type" : "STY",
+    "lastUpdated" : "2013-01-13T13:09:01+00:00",
+    "firstCreated" : "2013-01-13T11:51:57+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/a72f56d0-9092-6846-a81d-9c01abe18e14\"><image id=\"65251617\"/><paragraph role=\"introduction\">Two Big Issue sellers who were stabbed to death in front of shoppers in Birmingham were probably known to their attacker, police have said.</paragraph><paragraph>Wayne Busst, 32, and Ian Gladwish, 31, both from Birmingham, were stabbed in Union Street at about 17:50 GMT on Friday. </paragraph><paragraph>Police said they had so far received a \"fantastic response\" from the public.</paragraph><paragraph>Earlier officers were granted more time to question a 23-year-old man who was arrested minutes after the stabbings.</paragraph><paragraph>West Midlands Police now has until 21:00 GMT to either charge or release the man, who was arrested near to the Odeon cinema in New Street.</paragraph><crosshead>'Utterly senseless'</crosshead><paragraph>The force said hundreds of people may have witnessed the stabbings, which happened during rush hour in one of the city's busiest areas.</paragraph><paragraph>Det Insp Buck Rogers, who is leading the investigation into the deaths, said early enquiries suggested they had not been \"random\" attacks.</paragraph><paragraph>He added: \"The attacker appears to have known his victims.\"</paragraph><paragraph>He urged anyone else with information to contact police.</paragraph><paragraph>Big Issue founder and editor-in-chief John Bird has paid tribute to the two vendors and said everyone at the magazine was \"absolutely devastated\".</paragraph><paragraph>He said: \"We are struggling to make any sense of this utterly senseless attack and our sincerest condolences go out to the families of the victims.\"</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/a72f56d0-9092-6846-a81d-9c01abe18e14\"><paragraph>Two Big Issue sellers who were stabbed to death in front of shoppers in Birmingham were probably known to their attacker, police have said.</paragraph><paragraph>Wayne Busst, 32, and Ian Gladwish, 31, both from Birmingham, were stabbed in Union Street at about 17:50 GMT on Friday.</paragraph><paragraph>Police said they had so far received a \"fantastic response\" from the public.</paragraph><paragraph>Earlier officers were granted more time to question a 23-year-old man who was arrested minutes after the stabbings.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "65238044" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65238000/jpg/_65238044_stabbing.jpg",
+            "caption" : "West Midlands Police have cordoned off part of Martineau Place and Union Street",
+            "altText" : "Police incident in Martineau Place",
+            "positionHint" : "body-narrow-width"
+          },
+          "65238921" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65238000/jpg/_65238921_birmingham_police_cordon.jpg",
+            "altText" : "A shop and police cordon",
+            "positionHint" : "body-narrow-width"
+          },
+          "65250765" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65250000/jpg/_65250765_jex_7407_de27-1.jpg",
+            "caption" : "Union Street was cordoned off on Friday night",
+            "altText" : "Union Street closed on Friday night",
+            "positionHint" : "body-narrow-width"
+          },
+          "65241081" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65241000/jpg/_65241081_jex_7408_de19-1.jpg",
+            "caption" : "Supt Richard Moore said it was important not \"to jump to conclusions\"",
+            "altText" : "Supt Richard Moore",
+            "positionHint" : "body-narrow-width"
+          },
+          "65241510" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65241000/jpg/_65241510_jex_7409_de47-1.jpg",
+            "caption" : "Extra police patrols were put on in the city centre over the weekend",
+            "altText" : "The front of Sainsbury's in Union Street on Saturday morning",
+            "positionHint" : "body-narrow-width"
+          },
+          "65251617" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/65251000/jpg/_65251617_stabbing.jpg",
+            "caption" : "Wayne Busst and Ian Gladwish were Big Issue sellers",
+            "altText" : "Wayne Lee Busst (left) and Ian Watson Gladwish (right)",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "65251619" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/65251000/jpg/_65251619_stabbing.jpg",
+            "caption" : "Wayne Busst and Ian Gladwish had both been Big Issue sellers",
+            "altText" : "Wayne Lee Busst (left) and Ian Watson Gladwish (right)"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "Two men stabbed to death in front of shoppers in Birmingham city centre were Big Issue sellers, the publication confirms.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-12T16:52:34+00:00",
+        "firstCreated" : "2013-01-12T09:43:12+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20997334",
+        "headline" : "Birmingham stabbings: Stab victims were Big Issue sellers",
+        "shortHeadline" : "Stab victims were Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Two men are stabbed to death in the busy shopping area of Birmingham city centre, with a man arrested a few minutes later.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-11T21:43:49+00:00",
+        "firstCreated" : "2013-01-11T18:54:53+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20994692",
+        "headline" : "Birmingham city centre stabbings leave two men dead",
+        "shortHeadline" : "Two men killed in city stabbings",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "Two men stabbed to death in front of shoppers in Birmingham city centre were Big Issue sellers, the publication confirms.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-12T16:52:34+00:00",
+        "firstCreated" : "2013-01-12T09:43:12+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20997334",
+        "headline" : "Birmingham stabbings: Stab victims were Big Issue sellers",
+        "shortHeadline" : "Stab victims were Big Issue men",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      }, {
+        "summary" : "Two men are stabbed to death in the busy shopping area of Birmingham city centre, with a man arrested a few minutes later.",
+        "type" : "STY",
+        "lastUpdated" : "2013-01-11T21:43:49+00:00",
+        "firstCreated" : "2013-01-11T18:54:53+00:00",
+        "hasShortForm" : true,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-20994692",
+        "headline" : "Birmingham city centre stabbings leave two men dead",
+        "shortHeadline" : "Two men killed in city stabbings",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "West Midlands Police",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.west-midlands.police.uk/",
+          "highweb" : "http://www.west-midlands.police.uk/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-21003320",
+    "assetId" : "21003320",
+    "headline" : "Birmingham stabbings: Attacker 'knew Big Issue victims'",
+    "shortHeadline" : "Attacker 'knew Big Issue victims'",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.21003320.page"
+  } ]
+}

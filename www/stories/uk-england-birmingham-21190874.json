@@ -1,0 +1,86 @@
+{
+  "results" : [ {
+    "summary" : "A memorial service for two Big Issue sellers who were stabbed to death in Birmingham has been held at a city centre church.",
+    "type" : "MAP",
+    "lastUpdated" : "2013-01-24T21:12:31+00:00",
+    "firstCreated" : "2013-01-24T21:06:43+00:00",
+    "hasShortForm" : false,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/5380e31c-deb4-004d-abc2-17327a129c43\"><paragraph role=\"introduction\">A memorial service has been held in Birmingham for two Big Issue sellers who were stabbed to death in the city.</paragraph><paragraph>Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago. A 23-year old man has been charged with their murders. </paragraph><paragraph>The service was held at St Martin's Church in the city centre.</paragraph><paragraph>Big Issue founder John Bird described the two men as being \"very, very popular\".</paragraph></body>",
+    "media" : {
+      "images" : {
+        "index" : {
+          "65498976" : {
+            "height" : 360,
+            "width" : 640,
+            "href" : "http://news.bbcimg.co.uk/media/images/65498000/jpg/_65498976_candles.jpg",
+            "altText" : "Candles at a memorial service"
+          }
+        }
+      },
+      "videos" : {
+        "primary" : {
+          "65498999" : {
+            "duration" : "PT1M47S",
+            "available" : true,
+            "mimeType" : "application/xml",
+            "href" : "http://playlists.bbc.co.uk/news/uk-england-birmingham-21190874A/playlist.sxml",
+            "externalId" : "p0146j0l",
+            "caption" : "Ian Gladwish, 31, and Wayne Busst, 32, were killed in Union Street almost two weeks ago",
+            "allowOffSiteEmbedding" : false,
+            "live" : false,
+            "image" : {
+              "height" : 360,
+              "width" : 640,
+              "href" : "http://news.bbcimg.co.uk/media/images/65498000/jpg/_65498691_candles.jpg",
+              "altText" : "Candles at a memorial service"
+            }
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "more-media-asset-pages",
+      "items" : [ {
+        "title" : "AV content promotion hyperpuff - importers - LIVE",
+        "type" : "HYP",
+        "lastUpdated" : "2010-07-13T10:49:39+00:00",
+        "firstCreated" : "2010-07-02T16:30:56+00:00",
+        "language" : "en-gb",
+        "assetUri" : "/news/10301118",
+        "section" : {
+          "name" : "Video",
+          "uri" : "/news/video_and_audio"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "NOLAPPS201-6004"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-21190874",
+    "assetId" : "21190874",
+    "headline" : "Stabbed Big Issue sellers: Birmingham memorial service",
+    "shortHeadline" : "Service for killed Big Issue pair",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.media_asset.21190874.page",
+    "mediaType" : "Video"
+  } ]
+}

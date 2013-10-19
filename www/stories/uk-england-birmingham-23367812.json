@@ -1,0 +1,75 @@
+{
+  "results" : [ {
+    "summary" : "A 16-year-old boy is charged with murder after a teenager was fatally stabbed in a Birmingham park.",
+    "type" : "STY",
+    "lastUpdated" : "2013-07-18T20:33:03+00:00",
+    "firstCreated" : "2013-07-18T19:54:49+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/736958a4-3cf8-e744-90a2-d423f0e2ee8b\"><image id=\"68830606\"/><paragraph role=\"introduction\">A 16-year-old boy has been charged with murder after a teenager was fatally stabbed in a Birmingham park.</paragraph><paragraph>Hassan Mahmood, 15, was attacked in Oaklands Park, South Yardley shortly before 18:00 BST on Monday.</paragraph><paragraph>He died in hospital after suffering a single stab wound to the back, West Midlands Police said.</paragraph><paragraph>Another 16-year-old boy has been charged with assisting an offender. The pair, who cannot be named for legal reasons, are due in court on Friday.</paragraph><paragraph>They will both appear at Birmingham Youth Court.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/736958a4-3cf8-e744-90a2-d423f0e2ee8b\"><paragraph>A 16-year-old boy has been charged with murder after a teenager was fatally stabbed in a Birmingham park.</paragraph><paragraph>Hassan Mahmood, 15, was attacked in Oaklands Park, South Yardley shortly before 18:00 BST on Monday.</paragraph><paragraph>He died in hospital after suffering a single stab wound to the back, West Midlands Police said.</paragraph><paragraph>Another 16-year-old boy has been charged with assisting an offender. The pair, who cannot be named for legal reasons, are due in court on Friday.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "68830606" : {
+            "height" : 224,
+            "width" : 224,
+            "href" : "http://news.bbcimg.co.uk/media/images/68830000/jpg/_68830606_68830605.jpg",
+            "caption" : "Hassan Mahmood was stabbed once in the back",
+            "altText" : "Hassan Mahmood"
+          },
+          "68830209" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/68830000/jpg/_68830209_flowers-michelledawes.jpg",
+            "caption" : "Tributes to Hassan Mahmood have been left at the scene of the stabbing",
+            "altText" : "Floral tributes at the scene of a stabbing in Yardley",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "68830639" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/68830000/jpg/_68830639_68830601.jpg",
+            "altText" : "Hassan Mahmood"
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "HM Courts Service",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.justice.gov.uk/about/hmcts",
+          "highweb" : "http://www.justice.gov.uk/about/hmcts"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-23367812",
+    "assetId" : "23367812",
+    "headline" : "Hassan Mahmood stabbing: Teenager charged with murder",
+    "shortHeadline" : "Teenager charged over fatal stabbing",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.story.23367812.page"
+  } ]
+}

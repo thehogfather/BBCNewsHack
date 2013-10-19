@@ -1,0 +1,184 @@
+{
+  "results" : [ {
+    "summary" : "Friends and family attend the funeral of a 16-year-old girl who was fatally stabbed on a bus in Birmingham.",
+    "type" : "STY",
+    "lastUpdated" : "2013-03-22T17:58:10+00:00",
+    "firstCreated" : "2013-03-22T10:48:51+00:00",
+    "hasShortForm" : true,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/1e06a2e5-4df5-af4b-b9ad-9c402f80ebd9\"><image id=\"66562249\"/><paragraph role=\"introduction\">Hundreds of mourners have attended the funeral of a teenager who died after being stabbed on a bus in Birmingham.</paragraph><paragraph>Christina Edkins, aged 16, died on 7 March after being attacked on the number 9 service on the Hagley Road, as she travelled to school.</paragraph><paragraph>Friends, family and pupils from her school attended the service at St Philip's Cathedral in Birmingham and dozens of people stood outside.</paragraph><paragraph>Phillip Simelane, 22, has been charged with murder and remains in custody.</paragraph><paragraph>Mr Simelane, from Walsall, is detained at a secure mental health unit.  He appeared in court on 15 March, accused of killing Christina.</paragraph><!-- Embedded video --><video media-id=\"66560621\">    <caption>Stephen Newby: \"We are devastated that she should have been taken away so senselessly\"</caption>  </video><paragraph>At her funeral, many mourners wore purple ribbons, with crowds standing in the snow next to the cathedral, as a white horse-drawn hearse arrived.</paragraph><crosshead>'We are devastated'</crosshead><paragraph>Members of Christina's family followed the coffin as it was carried inside the cathedral.</paragraph><paragraph>Neil Shaw, head teacher at Leasowes High School near Halesowen, where Christina was a pupil, told the congregation he and his colleagues were \"privileged\" to have met her.</paragraph><paragraph>\"If schools could choose their students they would be filled with pupils like Christina,\" he said.</paragraph><paragraph>\"The tragic loss of Christina has given us the chance to measure the reaction of hundreds of pupils. </paragraph><quoteBox><quote><quoteText>We have been overwhelmed and comforted by the spontaneous reactions of so many people</quoteText><quoteSource title=\"Christina Edkins' cousin\">Stephen Newby</quoteSource></quote></quoteBox><paragraph>\"I can tell you that they have risen to every challenge and showed incredible resolve... staff and pupils will treasure the time we spent with her and feel privileged to have been part of her life.\"</paragraph><paragraph>Poems and tributes were read out, including one by pupil Aubrey Gonzales, called \"An Angel Called Christina\".</paragraph><paragraph>Before the service, in a statement on behalf of Christina's family, her cousin Stephen Newby said they had been overwhelmed by the reaction of the public.</paragraph><paragraph>He said: \"We today will say goodbye to Christina and we are devastated that she should have been taken away so senselessly and continue to try to come to terms with what happened. </paragraph><paragraph>\"We have been overwhelmed and comforted by the spontaneous reactions of so many people. While many of them didn't know Christina, all have been touched in some way by this tragic event and share in our grief.\"</paragraph><crosshead>'Happy and beautiful'</crosshead><image id=\"66557033\"/><paragraph>He also thanked people for their support and kindness, adding: \"The determination and support of the police has been invaluable at this very difficult time, and we wish to thank all the officers involved.\" </paragraph><paragraph>Dariess Davey, who used to walk with Christina into school, said she was \"happy, beautiful and welcoming\".</paragraph><paragraph>The Dean of Birmingham, the Very Reverend Catherine Ogle, said it was \"a sad privilege\" for the cathedral to conduct the funeral.</paragraph><paragraph>\"We extend heart-felt sympathy and prayers to her family and friends,\" she said.</paragraph></body>",
+    "shortFormBody" : "<shortFormBody xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/1e06a2e5-4df5-af4b-b9ad-9c402f80ebd9\"><paragraph>Hundreds of mourners have attended the funeral of a teenager who died after being stabbed on a bus in Birmingham.</paragraph><paragraph>Christina Edkins, aged 16, died on 7 March after being attacked on the number 9 service on the Hagley Road, as she travelled to school.</paragraph><paragraph>Friends, family and pupils from her school attended the service at St Philip's Cathedral in Birmingham and dozens of people stood outside.</paragraph><paragraph>Phillip Simelane, 22, has been charged with murder and remains in custody.</paragraph></shortFormBody>",
+    "media" : {
+      "images" : {
+        "body" : {
+          "66556969" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/66556000/jpg/_66556969_christinaedkins-newimage.jpg",
+            "caption" : "Christina died from a single stab wound to the chest",
+            "altText" : "Christina Edkins",
+            "positionHint" : "body-narrow-width"
+          },
+          "66252167" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/66252000/png/_66252167_40201337-1253-1.png",
+            "caption" : "Christina died from a single stab wound to the chest",
+            "altText" : "Christina Edkins",
+            "positionHint" : "body-narrow-width"
+          },
+          "66562249" : {
+            "height" : 261,
+            "width" : 464,
+            "href" : "http://news.bbcimg.co.uk/media/images/66562000/jpg/_66562249_dsc_0504.jpg",
+            "caption" : "Many mourners wore purple ribbons, with crowds standing in the snow next to the cathedral",
+            "altText" : "Christina Edkins funeral at Birmingham Cathedral",
+            "positionHint" : "body-width"
+          },
+          "66552777" : {
+            "height" : 282,
+            "width" : 226,
+            "href" : "http://news.bbcimg.co.uk/media/images/66552000/jpg/_66552777_christinaedkins-newimage.jpg",
+            "caption" : "Christina died from a single stab wound to the chest",
+            "altText" : "Christina Edkins"
+          },
+          "66270998" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/66270000/jpg/_66270998_5b81ab8a-30c0-4cfd-bcf1-eeadb8a0525c.jpg",
+            "caption" : "Dozens of bunches of flowers were left outside Leasowes High School",
+            "altText" : "Flowers outside the school",
+            "positionHint" : "body-narrow-width"
+          },
+          "66556966" : {
+            "height" : 288,
+            "width" : 512,
+            "href" : "http://news.bbcimg.co.uk/media/images/66556000/jpg/_66556966_66556965.jpg",
+            "caption" : "Members of the public stood outside the cathedral as Christina Edkins's coffin was carried inside",
+            "altText" : "Coffin carried into cathedral",
+            "positionHint" : "full-width"
+          },
+          "66557031" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/66557000/jpg/_66557031_20130322_125748.jpg",
+            "altText" : "Mourners at the cathedral",
+            "positionHint" : "body-narrow-width"
+          },
+          "66557033" : {
+            "height" : 171,
+            "width" : 304,
+            "href" : "http://news.bbcimg.co.uk/media/images/66557000/jpg/_66557033_20130322_131635.jpg",
+            "caption" : "Christina's family said they were devastated by her death",
+            "altText" : "Horse-drawn hearse",
+            "positionHint" : "body-narrow-width"
+          }
+        },
+        "index" : {
+          "66562251" : {
+            "height" : 1152,
+            "width" : 2048,
+            "href" : "http://news.bbcimg.co.uk/media/images/66562000/jpg/_66562251_dsc_0501.jpg",
+            "altText" : "Christina Edkins funeral at Birmingham Cathedral"
+          }
+        }
+      },
+      "videos" : {
+        "body" : {
+          "66560621" : {
+            "duration" : "PT48S",
+            "available" : true,
+            "mimeType" : "application/xml",
+            "href" : "http://playlists.bbc.co.uk/news/uk-21902712A/playlist.sxml",
+            "externalId" : "p016qzwx",
+            "caption" : "Stephen Newby: \"We are devastated that she should have been taken away so senselessly\"",
+            "allowOffSiteEmbedding" : false,
+            "live" : false,
+            "image" : {
+              "height" : 360,
+              "width" : 640,
+              "href" : "http://news.bbcimg.co.uk/media/images/66560000/jpg/_66560653_66560652.jpg",
+              "altText" : "Stephen Newby"
+            }
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "index",
+      "items" : [ {
+        "summary" : "A man is charged with murdering a 16-year-old girl who was stabbed on a bus on her way to school in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-03-15T14:04:49+00:00",
+        "firstCreated" : "2013-03-08T07:21:59+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-21711281",
+        "headline" : "Christina Edkins: Man charged with bus stabbing murder",
+        "shortHeadline" : "Man charged over girl's bus murder",
+        "section" : {
+          "name" : "England",
+          "uri" : "/news/england"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "A man is charged with murdering a 16-year-old girl who was stabbed on a bus on her way to school in Birmingham.",
+        "type" : "STY",
+        "lastUpdated" : "2013-03-15T14:04:49+00:00",
+        "firstCreated" : "2013-03-08T07:21:59+00:00",
+        "hasShortForm" : true,
+        "language" : "en-GB",
+        "assetUri" : "/news/uk-england-21711281",
+        "headline" : "Christina Edkins: Man charged with bus stabbing murder",
+        "shortHeadline" : "Man charged over girl's bus murder",
+        "section" : {
+          "name" : "England",
+          "uri" : "/news/england"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        }
+      } ]
+    }, {
+      "type" : "related-urls",
+      "items" : [ {
+        "title" : "West Midlands Police",
+        "type" : "LINK",
+        "links" : {
+          "desktop" : "http://www.west-midlands.police.uk/",
+          "highweb" : "http://www.west-midlands.police.uk/"
+        },
+        "assetTypeCode" : "URL"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : false,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-GB",
+    "assetUri" : "/news/uk-england-21897747",
+    "assetId" : "21897747",
+    "headline" : "Christina Edkins' cathedral funeral held",
+    "shortHeadline" : "Funeral held for girl stabbed on bus",
+    "section" : {
+      "name" : "England",
+      "uri" : "/news/england"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "iStatsCounterName" : "news.england.story.21897747.page"
+  } ]
+}

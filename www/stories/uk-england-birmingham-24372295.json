@@ -1,0 +1,109 @@
+{
+  "results" : [ {
+    "summary" : "A mother whose 16-year-old son and his best friend were killed in separate stabbings has called for more action to tackle knife crime.",
+    "type" : "MAP",
+    "lastUpdated" : "2013-10-02T17:53:41+00:00",
+    "firstCreated" : "2013-10-02T14:36:58+00:00",
+    "hasShortForm" : false,
+    "body" : "<body xmlns=\"http://www.bbc.co.uk/asset\" xml:space=\"preserve\" xml:base=\"http://www.bbc.co.uk/article/c01b9288-2e2a-7546-87f4-de43046a788e\"><paragraph>A mother whose 16-year-old son and his best friend were killed in separate stabbings has called for more action to tackle knife crime. </paragraph><paragraph>Kyle Sheehan and Joshua Ribera from Birmingham were killed a year apart. </paragraph><paragraph>Joshua died last month as he was leaving a fundraiser in Kyle's memory. </paragraph><paragraph>BBC correspondent Peter Wilson reports.</paragraph></body>",
+    "media" : {
+      "images" : {
+        "index" : {
+          "70242260" : {
+            "height" : 360,
+            "width" : 640,
+            "href" : "http://news.bbcimg.co.uk/media/images/70242000/jpg/_70242260_70237194.jpg",
+            "altText" : "Hayley Sheehan. mother of Kyle Sheehan"
+          }
+        }
+      },
+      "videos" : {
+        "primary" : {
+          "70238073" : {
+            "duration" : "PT2M13S",
+            "available" : true,
+            "mimeType" : "application/xml",
+            "href" : "http://playlists.bbc.co.uk/news/uk-england-birmingham-24372295A/playlist.sxml",
+            "externalId" : "p01hyjzh",
+            "caption" : "The mother of stabbed Kyle Sheehan has called for tougher measures on knife crime",
+            "allowOffSiteEmbedding" : false,
+            "live" : false,
+            "image" : {
+              "height" : 360,
+              "width" : 640,
+              "href" : "http://news.bbcimg.co.uk/media/images/70237000/jpg/_70237195_70237194.jpg",
+              "altText" : "Hayley Sheehan, mother of Kyle Sheehan"
+            }
+          }
+        }
+      }
+    },
+    "relatedGroups" : [ {
+      "type" : "see-alsos",
+      "items" : [ {
+        "summary" : "The mother of a teenager killed in a stabbing in Birmingham calls for more action to combat knife crime, on the day a man admits the manslaughter of another teenager in the city.",
+        "type" : "STY",
+        "lastUpdated" : "2013-10-02T15:15:37+00:00",
+        "firstCreated" : "2013-10-02T07:06:22+00:00",
+        "hasShortForm" : false,
+        "language" : "en-gb",
+        "assetUri" : "/news/uk-england-birmingham-24362176",
+        "headline" : "Christina Edkins: Mother of Kyle Sheehan calls for knife crime action",
+        "shortHeadline" : "Mother calls for knife crime action",
+        "section" : {
+          "name" : "Birmingham & Black Country",
+          "uri" : "/news/england/birmingham_and_black_country"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "nolapps593-6006"
+      } ]
+    }, {
+      "type" : "more-media-asset-pages",
+      "items" : [ {
+        "title" : "AV content promotion hyperpuff - importers - LIVE",
+        "type" : "HYP",
+        "lastUpdated" : "2010-07-13T10:49:39+00:00",
+        "firstCreated" : "2010-07-02T16:30:56+00:00",
+        "language" : "en-gb",
+        "assetUri" : "/news/10301118",
+        "section" : {
+          "name" : "Video",
+          "uri" : "/news/video_and_audio"
+        },
+        "site" : {
+          "name" : "BBC News",
+          "code" : "news-v6"
+        },
+        "workerCallingCard" : "NOLAPPS201-6004"
+      } ]
+    } ],
+    "options" : {
+      "allowHeadline" : true,
+      "allowDateStamp" : true,
+      "allowRelatedStoriesBox" : true,
+      "allowRightHandSide" : true,
+      "includeComments" : false,
+      "allowPrintingSharingLinks" : true,
+      "allowAdvertising" : true
+    },
+    "language" : "en-gb",
+    "assetUri" : "/news/uk-england-birmingham-24372295",
+    "assetId" : "24372295",
+    "headline" : "Kyle Sheehan's mother warns stabbings will continue",
+    "shortHeadline" : "Mother warns stabbings will continue",
+    "section" : {
+      "name" : "Birmingham & Black Country",
+      "uri" : "/news/england/birmingham_and_black_country"
+    },
+    "site" : {
+      "name" : "BBC News",
+      "code" : "news-v6"
+    },
+    "workerCallingCard" : "NOLAPPS571-6002",
+    "iStatsCounterName" : "news.england.birmingham_and_black_country.media_asset.24372295.page",
+    "mediaType" : "Video"
+  } ]
+}

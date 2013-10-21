@@ -14,7 +14,7 @@
     font-size: 20px;
 }
 circle.event {
-    stroke: #A8BDD3;
+    stroke: #7b8c9f;
     stroke-width:1;
     fill: #fff;
 }
@@ -29,8 +29,6 @@ circle.highlighted {
 }
 circle.event:hover {
     stroke: #0068A5;
-    stroke-width:4;
-    fill: #fff;
     cursor: pointer;
 }
 
@@ -41,9 +39,9 @@ circle.hasArticle {
 }
 
 circle.hasArticle:hover {
-    stroke: #0068A5;
+   /* stroke: #0068A5;
     fill: #fff;
-    stroke-width:6;
+    stroke-width:6;*/
     cursor: pointer;
 }
 
@@ -82,6 +80,21 @@ path {
 
 .faded {
     opacity: 0.1;
+}
+
+.highlighted {
+    opacity: 1;
+}
+
+#tagCloud text {
+    fill: white;
+}
+#tagCloud text.selected {
+    fill: #eacbcb;
+}
+
+#myCarousel .carousel-indicators{
+    display: none;
 }
 /*Outline colour:  #0068A5
 

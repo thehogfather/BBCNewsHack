@@ -25,7 +25,6 @@ define(function (require, exports, module) {
     function createTagCloud() {
         var w = 500, h = 200;
         d3.json("people.json", function (err, res) {
-            console.log(res);
             var data = _.filter(res, function (value, key) {
                 if ( value.articles && value.articles.length || value.events && value.events.length || value.storylines && value.storylines.length) {
                     value.name = key;
@@ -39,7 +38,7 @@ define(function (require, exports, module) {
                 var mentions = value.events.reduce(function (a, b) {
                     return {mentions: a.mentions + b.mentions};
                 }, {mentions: 0}).mentions;
-                return {text: value.name, articles: value.articles, events: value.events, storylines: value.storylines, size: mentions};
+                return {text: value.name, articles: value.articles, events: value.events, storylines: value.storylines, size: 8 + mentions};
             });
             var fill = d3.scale.category20();
 
@@ -59,9 +58,8 @@ define(function (require, exports, module) {
                   .selectAll("text")
                     .data(words)
                   .enter().append("text")
-                    .style("font-size", function(d) { return d.size + "px"; })
+                    .style("font-size", function(d) { return (d.size) + "px"; })
                     .style("font-family", "Impact")
-                    .style("fill", function(d, i) { return "white"; })
                     .attr("text-anchor", "middle")
                     .attr("transform", function(d) {
                       return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
@@ -69,7 +67,6 @@ define(function (require, exports, module) {
                     .text(function(d) {
                         return d.text;
                     }).on("mouseover", function (d, i) {
-                        d3.selectAll("#tagCloud text").classed("selected", false);
                         d3.select(this).classed("selected", true);
                         //higlight the events where this person appears
                         var events = d.events;
@@ -78,14 +75,23 @@ define(function (require, exports, module) {
                                 return e.id === d.id;
                             })) {
                                 d3.select(this).classed("highlighted", true);
-                                console.log("classed");
                             } else {
                                 d3.select(this).classed("highlighted", false).classed("faded", true);
-                                console.log("un classed");
+                            }
+                        });
+                        d3.selectAll("g.timevine").each(function (vd, i) {
+                            var el = d3.select(this);
+                            if (vd.some(function (ed) {
+                                return d.events.some(function (e) { return e.id === ed.id;});
+                            })) {
+                                el.select("path").classed("highlighted", true).classed("faded", false);
+                            } else {
+                                el.select("path").classed("faded", true).classed("highlighted", false);
                             }
                         });
                     }).on("mouseout", function (d, i) {
-                        d3.selectAll("circle").classed("highlighted", false).classed("faded", false);
+                        d3.selectAll("circle, path").classed("highlighted", false).classed("faded", false);
+                        d3.selectAll("#tagCloud text").classed("selected", false);
                     });
                 }
             });
@@ -232,40 +238,13 @@ define(function (require, exports, module) {
             xAxis = d3.svg.axis().scale(xscale).tickSubdivide(false);
 
         var timeVineData = getTimeVineData(mainEvents, subStoryEvents, xscale);
-        var lf = d3.svg.line()
-            .x(function (d) {
-                return d.x;
-            }).y(function (d) {
-                return d.y;
-            }).interpolate("linear");
-
- //draw a horizontal line to show the timeline
-        timeLine.append("g").attr("class", "x axis").call(xAxis)
-            .selectAll("text")
-            .attr("dy", -20) ;
-        var tg =  timeLine.append("g").selectAll("g.timevine").data(timeVineData)
-            .enter().append("g").attr("class", "timevine");
-
-        var timevineG = tg.append("path").attr("d", function (d) {
-                return lf(d);
-            }).attr("fill", "none")
-            .attr("stroke", "blue").attr("class", function (d, i) {
-                return i === timeVineData.length - 1 ? "mainStoryLineEvent" : "";
-            });
-
-
-
-         var eventCircles = tg.selectAll("circle.event").data(function (d) {
-            return d;}).enter().append("circle")
-            .attr("cx", function (d) {
-                return d.x;
-            }).attr("cy", function (d) {
-                return d.y;
-            }).attr("class", function (d) {
-                return "event " + (d.taggedOn ? "hasArticle" : "");
-            }).attr("r", radf);
-
-        eventCircles.on("mouseover", function (d, i) {
+        
+        var tv = d3.timevine().data(timeVineData).width(1400).height(200).orient("horizontal").branches("bottom")
+            .eventSize(radf).render("#timeVine");
+        var eventEls = tv.events();
+        eventEls.classed("hasArticle", function (d, i) {
+            return d.taggedOn;
+        }).on("mouseover", function (d, i) {
             d3.select(this).classed("mouseover", true).attr("r", radf);
             if (d.taggedOn) {
                 var ids = d.taggedOn["@set"] ? d.taggedOn["@set"].map(function (ne) {return ne["@id"];})
@@ -273,7 +252,7 @@ define(function (require, exports, module) {
 
                 //also class related events to say they are highlighted
                 //check through all the events and tag those who have news items found in the news items of the selected itm
-                d3.selectAll("circle.event").each(function (d, i) {
+                eventEls.each(function (d, i) {
                     var d3el = d3.select(this);
                     if (d.taggedOn) {
                         var tids = d.taggedOn["@set"] ? d.taggedOn["@set"].map(function (ne) {return ne["@id"];})
@@ -292,6 +271,14 @@ define(function (require, exports, module) {
                         }
                     } else {
                         d3el.classed("faded", true).classed("higlighted", false);
+                    }
+                });
+                tv.vines().each(function (vd, i) {
+                    var el = d3.select(this);
+                    if (vd.indexOf(d) > -1) {
+                        el.select("path").classed("highlighted", true).classed("faded", false);
+                    } else {
+                        el.select("path").classed("faded", true).classed("highlighted", false);
                     }
                 });
                 var article = d.taggedOn["@set"] ? d.taggedOn["@set"][0] : d.taggedOn;
@@ -316,7 +303,7 @@ define(function (require, exports, module) {
         }).on("mouseout", function (d, i) {
             d3.select(this).classed("mouseover", false).classed("highlighted", false).attr("r", radf);
             //remove any other highlighted data
-            d3.selectAll("circle").classed("highlighted", false).classed("faded", false);
+            d3.selectAll("circle, path").classed("highlighted", false).classed("faded", false);
         }).on("click", function (d, i) {
             if (d.taggedOn) {
 //                var article = d.taggedOn["@set"] ? d.taggedOn["@set"][0] : d.taggedOn;
@@ -324,90 +311,17 @@ define(function (require, exports, module) {
 //                d3.select(".details").html(article.description).append("a").attr("href", article["@id"]).html(article["@id"]);
             }
         });
-        //draw the  mainEvents
-//        var eventG = timeLine.selectAll("g.event").data(mainEvents)
-//            .enter().append("g")
-//            .attr("class", "event")
-//            .attr("transform", function (d, i) {
-//                return "translate(" + xscale(d.date) + ")";
-//            });
-//
-//        var eventDots = eventG.append("circle")
-//            .attr("cy", -20)
-//            .attr("r", function (d) {
-//                return d.mainEvent ? 8 : 2;
-//            }).attr("class", function (d) {
-//                var hasArticle = d.taggedOn ? "hasArticle" : "";
-//                var c = d.mainEvent ? "main " : "other ";
-//                return c + hasArticle;
-//            })
-//            .append("title").text(function (d) {
-//                return d.date.toDateString();
-//            });
-//
-//        eventDots.on("mouseover", function (d, i) {
-//
-//        }).on("mouseout", function (d, i) {
-//
-//        })
-//        .on("click", function (d, i) {
-//           // d3.json("stories/" + d.taggedOn)
-//        });
-
-
-
-
-//        var sslVscale = d3.scale.linear().range([0, sslHeight]).domain([0, subStoryEvents.length]);
-//        var sslContainer = main.append("g").attr("transform", "translate(" + margin.left + ", 100)");
-//        var sslg = sslContainer.selectAll("g.ssl").data(subStoryEvents).enter()
-//            .append("g").attr("class", "ssl")
-//            .attr("transform", function (d, i) {
-//                return "translate(" + xscale(d[0].date) + "," + sslVscale(i) + ")";
-//            });
-//
-//        //add the line
-//        sslg.append("rect").attr("class", "substory")
-//            .attr("width", function (d) {
-//                return Math.abs(xscale(d[0].date) - xscale(d[d.length - 1].date));
-//            }).attr("height", 5);
-//
-//        sslg.selectAll("cirle.event").data(function (d) {
-//            return d.map(function (e) {
-//                return {start: d[0], data: e};
-//            });
-//        }).enter().append("circle")
-//            .attr("class", function (d) {
-//                var hasArticle = d.data.taggedOn ? "hasArticle" : "";
-//                var c = "event ";
-//                return c + hasArticle;
-//            }).attr("r", 2).attr("cx", function (d) {
-//                return xscale(d.data.date) - xscale(d.start.date);
-//            }).attr("cy", -2);
-
-
     }
 
-    var URL = "http://www.bbc.co.uk";
-
-    $("a.topopup").click(function() {
-            updateURL("http://www.bbc.co.uk/sport/0/");
-            changeData(URL);
-            loading(); // loading
-            setTimeout(function(){ // then show popup, deley in .5 second
-                loadPopup(); // function show popup
-            }, 500); // .5 second
-    return false;
-    });
-
     /* event for close the popup */
-    $("div.close").hover(
-                    function() {
-                        $('span.ecs_tooltip').show();
-                    },
-                    function () {
-                        $('span.ecs_tooltip').hide();
-                      }
-                );
+    $("div.close")
+        .hover(function() {
+                $('span.ecs_tooltip').show();
+            },
+            function () {
+                $('span.ecs_tooltip').hide();
+            }
+        );
 
     $("div.close").click(function() {
         disablePopup();  // function close pop up
@@ -454,7 +368,7 @@ define(function (require, exports, module) {
     }
 
     function disablePopup() {
-        if(popupStatus == 1) { // if value is 1, close popup
+        if (popupStatus == 1) { // if value is 1, close popup
             $("#toPopup").fadeOut("normal");
             $("#backgroundPopup").fadeOut("normal");
             popupStatus = 0;  // and set value to 0
@@ -462,9 +376,9 @@ define(function (require, exports, module) {
     }
 
     function changeData(newURL) {
-    if(!document.getElementById("contentarea"))
-        return false;
-    document.getElementById("contentarea").setAttribute("data", newURL);
+        if (!document.getElementById("contentarea"))
+            return false;
+        document.getElementById("contentarea").setAttribute("data", newURL);
     }
     module.exports = render;
 });

@@ -6,7 +6,8 @@
       "d3": "github:mbostock/d3/v3.3.7",
       "queue": "github:mbostock/queue/v1.0.4",
       "underscore": "github:amdjs/underscore/1.5.2",
-      "jquery": "github:jquery/jquery/2.0.3"
+      "jquery": "github:jquery/jquery/2.0.3",
+      "property": "github:thehogfather/property/master"
     }
   }
 }

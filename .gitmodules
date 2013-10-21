@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:thehogfather/timevine.git
+[submodule "www/js/lib/timevine"]
+	path = www/js/lib/timevine
+	url = git@github.com:thehogfather/timevine.git
